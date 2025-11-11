@@ -205,9 +205,9 @@
             "telefono": null,
             "whatsapp": "914 107 9323",
             "horario_general": "Lunes a Sábado: 6:00 am a 10:00 am",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 18.136192106696004, 
+            "longitud": -93.04685333931441,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d445.006895257678!2d-93.04705103439868!3d18.136017994578218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7defb962c66b%3A0xaf514255e88f2053!2sLaboratorios%20Napoles%20Jalupa!5e0!3m2!1ses-419!2smx!4v1762881582377!5m2!1ses-419!2smx"
         },
         {
             "id": 20,
@@ -227,9 +227,9 @@
             "telefono": "(936) 1289-322",
             "whatsapp": "936 128 9322",
             "horario_general": "Lunes a Sábado: 6:30am a 3:00pm; Domingo: 7:00am a 1:30pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 17.76306366550196, 
+            "longitud": -92.59761266462768,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7135.201833147071!2d-92.59962739185093!3d17.76153831018632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edf1eccd87c671%3A0x1dde98d39d347daf!2sLaboratorios%20Napoles%20Macuspana!5e0!3m2!1ses-419!2smx!4v1762881653736!5m2!1ses-419!2smx"
         },
         {
             "id": 22,
@@ -249,8 +249,8 @@
             "telefono": "(936) 3610-830",
             "whatsapp": "936 106 6704",
             "horario_general": "Lunes a Viernes: 7:00am a 2:00pm; Sábado: 7:00am a 1:00pm",
-            "latitud": null,
-            "longitud": null,
+            "latitud": 17.842389822335583, 
+            "longitud": -92.49208476004621,
             "url_iframe_mapa": ""
         },
         {
@@ -260,9 +260,9 @@
             "telefono": null,
             "whatsapp": "936 106 6482",
             "horario_general": "Lunes a Viernes: 7:00am a 2:00pm; Sábado: 7:00 am a 1:00 pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 17.819945535884745, 
+            "longitud": -92.46194384151462,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243116.66460445238!2d-92.49009630533084!3d17.80589038358675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edf70038b6575d%3A0x9586f05cb9154c5e!2sLaboratorios%20N%C3%A1poles%20san%20Fernando!5e0!3m2!1ses-419!2smx!4v1762882038989!5m2!1ses-419!2smx"
         },
         {
             "id": 25,
@@ -282,9 +282,9 @@
             "telefono": null,
             "whatsapp": "914 118 5550",
             "horario_general": "Lunes a Sábado de 6:30am a 3:00pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 18.170040246649148, 
+            "longitud": -93.01346048565395,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33330.61894542934!2d-93.05393199395337!3d18.18397793015738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7c803df1ee87%3A0x2d4328a8672e426d!2sLaboratorios%20Napoles%20Nacajuca!5e0!3m2!1ses-419!2smx!4v1762882122190!5m2!1ses-419!2smx"
         },
         {
             "id": 27,
@@ -304,9 +304,9 @@
             "telefono": "(933) 3333-697",
             "whatsapp": "933 157 1650",
             "horario_general": "Lunes a Viernes: 6:30 am a 3:00 pm; Sábado: 6:30am a 2:00pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 18.399743489801136, 
+            "longitud": -93.21068446030694,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3785.8528965379132!2d-93.21387092438978!3d18.39954497285913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee8cd33b5b850f%3A0xb31c39f5eb3a1593!2sLaboratorios%20Napoles%20Paraiso!5e0!3m2!1ses-419!2smx!4v1762882254527!5m2!1ses-419!2smx"
         },
         {
             "id": 29,
@@ -315,9 +315,9 @@
             "telefono": "(937) 3720-404",
             "whatsapp": "937 229 7988",
             "horario_general": "Lunes a Sábado: 6:30 am a 2:30 pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 18.289417857413287, 
+            "longitud": -93.87124142092283,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.7665814302897!2d-93.87135809700666!3d18.28947165671769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e94f2c7279b891%3A0xd0011f17b8fd55fc!2sBenito%20Ju%C3%A1rez%20271%2C%20Puerto%20Cnel.%20Andres%20Sanchez%20Magallanes%2C%2086460%20Villa%20S%C3%A1nchez%20Magallanes%2C%20Tab.!5e0!3m2!1ses-419!2smx!4v1762882622107!5m2!1ses-419!2smx"
         },
         {
             "id": 30,
@@ -337,9 +337,9 @@
             "telefono": "(993) 3376-266",
             "whatsapp": "993 699 0962",
             "horario_general": "Lunes a Sábado: 7:00am a 3:00pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 18.16141376027061, 
+            "longitud": -92.7821005222404,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3791.0550446520806!2d-92.7856732243939!3d18.161378080046724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee732c2dddf089%3A0x613ed75313c2828d!2sLaboratorios%20Napoles%20Tamulte%20de%20las%20Sabanas!5e0!3m2!1ses-419!2smx!4v1762881316698!5m2!1ses-419!2smx"
         },
         {
             "id": 32,
@@ -377,13 +377,13 @@
         {
             "id": 35,
             "titulo": "SUCURSAL VILLA BENITO JUAREZ",
-            "direccion": "Calle del Parque (a lado de la papelería América.) Villa Benito Juárez. Cádenas, Tabasco.",
+            "direccion": "Calle del Parque (a lado de la papelería América.) Villa Benito Juárez. Cárdenas, Tabasco.",
             "telefono": "(937) 3720-404",
             "whatsapp": "937 140 9939",
             "horario_general": "Lunes a Sábado: 6:30am a 2:00pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 18.17891347329618, 
+            "longitud": -93.90474676102828,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21443.2373268931!2d-93.91615675433779!3d18.179345938962612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e95aa10312479f%3A0xd543be62518a2dc5!2sLaboratorios%20Napoles%20Villa%20Benito%20Ju%C3%A1rez!5e0!3m2!1ses-419!2smx!4v1762881192101!5m2!1ses-419!2smx"
         },
         {
             "id": 36,
