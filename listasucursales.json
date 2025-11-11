@@ -216,9 +216,9 @@
             "telefono": "(923) 2320-486",
             "whatsapp": "993 111 7870",
             "horario_general": "Lunes a Sábado: 7:00am a 3:00pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 18.090425701837844, 
+            "longitud": -94.04189618753819,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4439.710627121441!2d-94.04473460926872!3d18.089369137111238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e95f2e2607e401%3A0x8b068a13c8392bfc!2sLaboratorios%20Napoles%20La%20Venta!5e0!3m2!1ses-419!2sus!4v1762877571681!5m2!1ses-419!2sus"
         },
         {
             "id": 21,
@@ -326,9 +326,9 @@
             "telefono": "(932) 3240-471",
             "whatsapp": "932 125 3136",
             "horario_general": "Lunes a Sábado: 6:30 am. a 2:30pm; Domingo: 7:00am a 12:00 pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 17.59275565416816, 
+            "longitud": -92.82595847011069,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3803.214075413816!2d-92.83133361659388!3d17.59256645389753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edbfaa92251809%3A0x7f84f849574a0849!2sLaboratorios%20Napoles%20Tacotalpa!5e0!3m2!1ses-419!2sus!4v1762877300043!5m2!1ses-419!2sus"
         },
         {
             "id": 31,
@@ -348,9 +348,9 @@
             "telefono": "(932) 1227-872",
             "whatsapp": "932 122 7872",
             "horario_general": "Lunes a Viernes: 6:00am a 2:30pm; Sabado a Domingo: 7:00am a 2:00pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 17.55140575912475, 
+            "longitud": -92.95196586401538,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3804.084238626898!2d-92.95500212440409!3d17.55117559806515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edb0b354038aef%3A0x56c65afddf90b78c!2sLaboratorios%20Napoles%20Teapa!5e0!3m2!1ses-419!2sus!4v1762877260856!5m2!1ses-419!2sus"
         },
         {
             "id": 33,
@@ -359,9 +359,9 @@
             "telefono": "(934) 3421-630",
             "whatsapp": "934 1100 226",
             "horario_general": "Lunes a Viernes: 6:30am a 3:00pm; Sábado: 6:30am a 1:00 pm; Domingo: 7:00 am – 1:00pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 17.477154554711955, 
+            "longitud": -91.42499710449889,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.6396121393213!2d-91.42812992440528!3d17.476955000217902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f390a04bd792af%3A0x92bf34b5e35e7734!2sLaboratorios%20Napoles%20Tenosique!5e0!3m2!1ses-419!2sus!4v1762877195368!5m2!1ses-419!2sus"
         },
         {
             "id": 34,
@@ -392,9 +392,9 @@
             "telefono": "(913) 6880-322",
             "whatsapp": "913 109 3125",
             "horario_general": "Lunes a Sábado: 7:00am a 2:00pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 18.39288902331625, 
+            "longitud": -92.89463984494455,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d946.5000226132141!2d-92.89471762900047!3d18.39284702769594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee69cd9b9006d1%3A0x7a45b28840f7915f!2sLABORATORIOS%20NAPOLES!5e0!3m2!1ses-419!2sus!4v1762877149651!5m2!1ses-419!2sus"
         }
     ],
     "Veracruz": [
@@ -405,9 +405,9 @@
             "telefono": "(923) 2331-151",
             "whatsapp": "993 107 7927",
             "horario_general": "Lunes a Viernes: 7:00am a 3:00pm; Sábado: 7:00am a 2:00pm; Domingo: 7:30am a 1:00pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 18.138650999609048, 
+            "longitud": -94.14486154511268,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.9717942169121!2d-94.14507947457963!3d18.138620093962203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e967f8316c3cb7%3A0x88a900d02889e3c7!2sLaboratorios%20Napoles%20Agua%20dulce!5e0!3m2!1ses-419!2sus!4v1762876862497!5m2!1ses-419!2sus"
         },
         {
             "id": 38,
@@ -416,9 +416,9 @@
             "telefono": "(923) 2373-740",
             "whatsapp": "932 3238 0508",
             "horario_general": "Lunes a Viernes: 6:30 am a 3:30 pm; Sábado: 7:00 am a 2:00 pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 17.907359928468484, 
+            "longitud": -94.08923709838596,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3796.5322144984734!2d-94.09203732439816!3d17.907313987618362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ebdd2a9a32e6c9%3A0xd4166084be3301b3!2sLaboratorios%20Napoles%20Las%20Choapas!5e0!3m2!1ses-419!2sus!4v1762877003659!5m2!1ses-419!2sus"
         },
         {
             "id": 39,
@@ -427,9 +427,9 @@
             "telefono": "(923) 1380-304",
             "whatsapp": "993 235 5413",
             "horario_general": "Lunes a Sábado: 6:30am a 2:30pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 17.893047497968933, 
+            "longitud": -94.10410007191832,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3796.840947837025!2d-94.10940011655445!3d17.892889244444913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ebdd6ec323cf4f%3A0x4e3602dd628e2f59!2sLaboratorios%20Napoles%20Las%20Choapas%20toma!5e0!3m2!1ses-419!2sus!4v1762876919837!5m2!1ses-419!2sus"
         }
     ],
     "Chiapas": [
@@ -440,9 +440,9 @@
             "telefono": "(919) 6741-862",
             "whatsapp": "919 130 2268",
             "horario_general": "Lunes a Viernes 6:30am a 3:00pm; Sábado: 6:30am a 1:00pm; Domingo: 7:00am a 12:00 pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 17.1747695400603, 
+            "longitud": -92.33386082723321,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3811.9093366566185!2d-92.33665032441012!3d17.17462090889888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f285d0f9a7039d%3A0xa565d9d132011c7d!2sLaboratorios%20Napoles%20Yajal%C3%B3n!5e0!3m2!1ses-419!2sus!4v1762876769298!5m2!1ses-419!2sus"
         },
         {
             "id": 41,
@@ -451,9 +451,9 @@
             "telefono": "(917) 3282-010",
             "whatsapp": "917 135 1435",
             "horario_general": "Lunes a Viernes: 6:30am a 3:00pm; Sábado: 6:30am a 2:30pm; Domingo: 7:00 am a 2:00pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 17.863533713419532, 
+            "longitud": -93.14942007064566,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d237.3418082255142!2d-93.14940531849713!3d17.86351360933709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec2dbc7fe83e97%3A0xdc7eb17440d7025b!2sLaboratorios%20Napoles%20Reforma!5e0!3m2!1ses-419!2sus!4v1762876716250!5m2!1ses-419!2sus"
         },
         {
             "id": 42,
@@ -462,9 +462,9 @@
             "telefono": "S/N",
             "whatsapp": null,
             "horario_general": "Lunes a Sábado: 6:30am a 2:00PM",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 17.37319639567139, 
+            "longitud": -92.81805813482045,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d237.98778871946038!2d-92.81839542258007!3d17.37313207950652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sus!4v1762876618636!5m2!1ses-419!2sus"
         },
         {
             "id": 43,
@@ -473,9 +473,9 @@
             "telefono": null,
             "whatsapp": "916 111 6728",
             "horario_general": "Lunes a Sábado: 6:30am a 3:00pm; Domingo: 7:00am a 2:00pm",
-            "latitud": null,
-            "longitud": null,
-            "url_iframe_mapa": ""
+            "latitud": 17.5575929759102, 
+            "longitud": -92.33284239710352,
+            "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3803.9525713110456!2d-92.33828191659849!3d17.5574446549944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f271f8a603fc0d%3A0xee29d6c0ae37a81!2sLaboratorios%20Napoles%20Salto%20de%20Agua!5e0!3m2!1ses-419!2sus!4v1762876317025!5m2!1ses-419!2sus"
         }
     ]
 }
