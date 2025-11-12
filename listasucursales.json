@@ -341,17 +341,6 @@
         ],
         "Nacajuca": [
             {
-                "id": 25,
-                "titulo": "SUCURSAL NACAJUCA",
-                "direccion": "Calle Benito Juárez S/N entre Acatempan y Pipila (a un costado de la Iglesia). Col. Centro C.P.86220 Nacajuca, Tabasco.",
-                "telefono": "(914) 1040-104",
-                "whatsapp": "914 118 5550",
-                "horario_general": "Lunes a Viernes: 6:30am a 2:30pm; Sábado: 6:30 a 2:00pm; Domingo: 7:00am a 1:00pm",
-                "latitud": null,
-                "longitud": null,
-                "url_iframe_mapa": ""
-            },
-            {
                 "id": 26,
                 "titulo": "SUCURSAL NACAJUCA LABORATORIO",
                 "direccion": "Calle Guillermo Prieto #38B, (frente al Palacio La Fantasía y a un costado de pollo guerrero) Col. Centro, Nacajuca, Tabasco.",
@@ -521,3 +510,4 @@
         ]
     }
 }
+
