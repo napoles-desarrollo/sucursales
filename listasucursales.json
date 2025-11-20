@@ -108,7 +108,7 @@
                 "direccion": "Plaza Hidalgo #103 (frente al Parque Central, junto al café selecto) C.P. 86500 Col. Centro Cardenás, Tabasco.",
                 "telefono": "(937) 3720-404",
                 "whatsapp": "937 125 3548",
-                "horario_general": "Lunes a Viernes: 6:30am a 3:00pm; Sábado: 6:30am a 2:00 pm; Domingo: 7:00am a 2:00 pm",
+                "horario_general": "Lunes a Sabado: 6:30am a 3:00pm; Domingo: 7:00am a 2:00 pm",
                 "latitud": 17.987969204329783,
                 "longitud": -93.3762997503136,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d948.7007419336151!2d-93.37732167187555!3d17.987901600000008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec20f68c62bd9f%3A0x11ddea99d74ad36c!2sLaboratorios%20Napoles%20C%C3%A1rdenas!5e0!3m2!1ses-419!2sus!4v1762788396231!5m2!1ses-419!2sus",
@@ -551,6 +551,7 @@
         ]
     }
 }
+
 
 
 
