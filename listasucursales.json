@@ -123,7 +123,7 @@
                 "horario_general": "Lunes a Sábado: 6:30 am a 2:30 pm",
                 "latitud": 18.289417857413287,
                 "longitud": -93.87124142092283,
-                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.7665814302897!2d-93.87135809700666!3d18.28947165671769!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e94f2c7279b891%3A0xd0011f17b8fd55fc!2sBenito%20Ju%C3%A1rez%20271%2C%20Puerto%20Cnel.%20Andres%20Sanchez%20Magallanes%2C%2086460%20Villa%20S%C3%A1nchez%20Magallanes%2C%20Tab.!5e0!3m2!1ses-419!2smx!4v1762882622107!5m2!1ses-419!2smx",
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5614.486803941354!2d-93.87410388836888!3d18.288666238328606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e94fda543514bb%3A0x7ef308995e0ded6b!2sLaboratorios%20Napoles%20Sanchez%20Magallanes!5e0!3m2!1ses-419!2smx!4v1763827492540!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png"
             },
             {
@@ -275,7 +275,7 @@
                 "horario_general": "Lunes a Sábado: 7:00am a 10:00am",
                 "latitud": null,
                 "longitud": null,
-                "url_iframe_mapa": "",
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1763827186891!5m2!1ses-419!2smx!6m8!1m7!1sj1LGADdHzJXGjM1K9LOYIA!2m2!1d18.22478426722533!2d-93.1109361750156!3f67.82021431103922!4f-13.74825887904511!5f0.7820865974627469",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png"
             },
             {
@@ -287,7 +287,7 @@
                 "horario_general": "Lunes a Sábado: 7:00am a 10:00am",
                 "latitud": null,
                 "longitud": null,
-                "url_iframe_mapa": "",
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3789.3956255477033!2d-93.08284012486224!3d18.23767657775459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee63e81faf2cad%3A0xa3ce723fc5e7b923!2sLaboratorios%20Napoles%20Mecoacan!5e0!3m2!1ses-419!2smx!4v1763827266793!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png"
             },
             {
@@ -389,7 +389,7 @@
                 "horario_general": "Lunes a Sábado: 7:00am a 10:00am",
                 "latitud": null,
                 "longitud": null,
-                "url_iframe_mapa": "",
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3790.142276894896!2d-93.01017689999999!3d18.203384500000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7b3e28fe275f%3A0xb139586f02d7e947!2sLaboratorios%20Napoles%20Mazateupa!5e0!3m2!1ses-419!2smx!4v1763827381028!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png"
             }
         ],
@@ -551,6 +551,7 @@
         ]
     }
 }
+
 
 
 
