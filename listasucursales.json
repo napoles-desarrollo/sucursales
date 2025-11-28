@@ -1,595 +1,595 @@
 {
-  "Tabasco": {
-    "Centro": [
-      {
-        "id": 1,
-        "titulo": "SUCURSAL VILLAHERMOSA",
-        "direccion": "Calle Miguel Hidalgo #322 Col. Tamulte de las Barrancas. Villahermosa, Tabasco.",
-        "telefono": "(993) 3511-528",
-        "whatsapp": "993 235 5413",
-        "horario_general": "Lunes a Viernes: 6:00am a 7:30pm; Sábado: 6:00am a 3:00pm; Domingo: 7:00am a 2:00pm",
-        "latitud": 17.970675435081063,
-        "longitud": -92.95695791280816,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d564.1556916804243!2d-92.95696730053903!3d17.970733478424872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edd773398a3743%3A0xc0c4e527ecacf1a3!2sLABORATORIOS%20NAPOLES%20AN%C3%81LISIS%20CL%C3%8DNICOS%20VILLAHERMOSA!5e0!3m2!1ses-419!2smx!4v1762785930659!5m2!1ses-419!2smx",
-        "servicios": "Análisis clínicos, Cardiología, Audiometría, Espirometría, Endoscopia, Colposcopia, Rayos X, Ultrasonido, Densitometría ósea, Prueba de Holter, Papanicolaou, Electrocardiograma"
-      },
-      {
-        "id": 4,
-        "titulo": "SUCURSAL BUENA VISTA",
-        "direccion": "Calle Jose Maria Pino Suarez, Frente a la Primaria Martha Hernández de Montejo CP. 86283 Buena Vista, Centro, Tabasco.",
-        "telefono": null,
-        "whatsapp": "993 345 9914",
-        "horario_general": "Lunes a Viernes: 7:00am a 2:00pm; Sábado: 7:00am a 10:00am",
-        "latitud": 18.148754479832867,
-        "longitud": -92.75187621236653,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d304.88587220350627!2d-92.75258243074497!3d18.14862399375667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee0cec9798513f%3A0x84dd05a29dafdb9e!2sLABORATORIOS%20NAPOLES!5e0!3m2!1ses-419!2sus!4v1762788246627!5m2!1ses-419!2sus",
-        "img": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzSVJhwbz0MU_TY-a_XsssUf2yTCCj0Q6EBYq56fyiCSltckdRZQinG4eS3Bnzwef-Qq1kW5obW8oYubKr5yZv9o8FA5lP4tF0N3y5bzGq4Jj1jsEW_MS-3SzLHiPXtKsCKRIo1gw=w426-h240-k-no",
-        "servicios": "Analisis Clinicos"
-      },
-      {
-        "id": 31,
-        "titulo": "SUCURSAL TAMULTE DE LAS SABANAS",
-        "direccion": "Miguel Hidalgo #181, Jose G. Asmitia CP. 86250 Tamulte de las Sabanas, Tabasco.",
-        "telefono": "(993) 3376-266",
-        "whatsapp": "993 699 0962",
-        "horario_general": "Lunes a Sábado: 7:00am a 3:00pm",
-        "latitud": 18.16141376027061,
-        "longitud": -92.7821005222404,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3791.0550446520806!2d-92.7856732243939!3d18.161378080046724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee732c2dddf089%3A0x613ed75313c2828d!2sLaboratorios%20Napoles%20Tamulte%20de%20las%20Sabanas!5e0!3m2!1ses-419!2smx!4v1762881316698!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Analisis Clinicos"
-      }
-    ],
-    "Comalcalco": [
-      {
-        "id": 2,
-        "titulo": "SUCURSAL ALDAMA",
-        "direccion": "Calle Jose María Morelos y Pavón S/N, Esq. 27 de Febrero C.P.86640 Col. Centro, Comalcalco, Tabasco.",
-        "telefono": "(933) 3352-140",
-        "whatsapp": "933 133 8213",
-        "horario_general": "Lunes a Sábado: 6:30am a 2:00pm",
-        "latitud": 18.24208469542989,
-        "longitud": -93.3480814412135,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242515.97851819135!2d-93.3501781!3d18.2415059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee977dc073c03f%3A0x5b58cfc9d188c025!2sLaboratorios%20Napoles%20Aldama!5e0!3m2!1ses-419!2smx!4v1762786197257!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 6,
-        "titulo": "SUCURSAL ARENA",
-        "direccion": "1ra. Carretera Principal ( cerca del Centro de Salud) Arena, Comalcalco.",
-        "telefono": "(933) 3343-298",
-        "whatsapp": "933 159 8345",
-        "horario_general": "Lunes a Sábado: 6:00am a 9:00am",
-        "latitud": null,
-        "longitud": null,
-        "url_iframe_mapa": "",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 7,
-        "titulo": "SUCURSAL COMALCALCO",
-        "direccion": "Calle Juárez #602, entre Manuel González y Pedro C. Colorado C.P. 86300 Col. Centro. Comalcalco, Tabasco.",
-        "telefono": "(933) 3343-298",
-        "whatsapp": "933 159 8345",
-        "horario_general": "Lunes a Viernes: 6:30am a 3:00pm; Sábado: 6:30am a 2:00pm",
-        "latitud": 18.260344383685712,
-        "longitud": -93.22221868137461,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.8062630712856!2d-93.22224080959876!3d18.260395644866435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee8e5491cf5c31%3A0x5ae52e96cc8b210a!2sLaboratorios%20Napoles%20Comalcalco!5e0!3m2!1ses-419!2sus!4v1762788508976!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 8,
-        "titulo": "SUCURSAL TECOLUTILLA",
-        "direccion": "Calle Benito Juarez (entre Cerrada Miguel y Calle Vicente Guerrero a lado de la Óptica Miguel) Tecolutilla, Comalcalco Tabasco.",
-        "telefono": null,
-        "whatsapp": "933 111 0194",
-        "horario_general": "Lunes a viernes: 6:30am a 3:00pm; Sábado: 6:30am-2:00pm",
-        "latitud": 18.282973315145572,
-        "longitud": -93.33157678754932,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.77550622223734!2d-93.33160327436421!3d18.282936068079113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee915539ed1c17%3A0xb336fc3b9a7e729!2sLaboratorios%20Napoles%20Tecolutilla!5e0!3m2!1ses-419!2sus!4v1762789280766!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Balancán": [
-      {
-        "id": 3,
-        "titulo": "SUCURSAL BALANCÁN",
-        "direccion": "Gregorio Méndez S/N esquina Narciso Rovirosa. Col. Centro C.P. 86930 Balancán, Tabasco.",
-        "telefono": "(934) 3440-220",
-        "whatsapp": "934 246 3951",
-        "horario_general": "Lunes a Sábado: 6:30 am a 2:30pm; Domingo: 7:00am a 2:00pm",
-        "latitud": 17.800314087723294,
-        "longitud": -91.53415744497593,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.8208487850284!2d-91.53738682439997!3d17.80011489078342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f3c3cc934cdcdb%3A0x1785680c1224f818!2sLaboratorios%20Napoles%20Balanc%C3%A1n!5e0!3m2!1ses-419!2smx!4v1762786634097!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Cárdenas": [
-      {
-        "id": 5,
-        "titulo": "SUCURSAL CARDENÁS",
-        "direccion": "Plaza Hidalgo #103 (frente al Parque Central, junto al café selecto) C.P. 86500 Col. Centro Cardenás, Tabasco.",
-        "telefono": "(937) 3720-404",
-        "whatsapp": "937 125 3548",
-        "horario_general": "Lunes a Sabado: 6:30am a 3:00pm; Domingo: 7:00am a 2:00 pm",
-        "latitud": 17.987969204329783,
-        "longitud": -93.3762997503136,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d948.7007419336151!2d-93.37732167187555!3d17.987901600000008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec20f68c62bd9f%3A0x11ddea99d74ad36c!2sLaboratorios%20Napoles%20C%C3%A1rdenas!5e0!3m2!1ses-419!2sus!4v1762788396231!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 29,
-        "titulo": "SUCURSAL SANCHEZ MAGALLANES",
-        "direccion": "Av. Juárez carretera principal #253 (a unos metros del IMSS) Sánchez Magallanes, Cárdenas, Tabasco.",
-        "telefono": "(937) 3720-404",
-        "whatsapp": "937 229 7988",
-        "horario_general": "Lunes a Sábado: 6:30 am a 2:30 pm",
-        "latitud": 18.289417857413287,
-        "longitud": -93.87124142092283,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5614.486803941354!2d-93.87410388836888!3d18.288666238328606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e94fda543514bb%3A0x7ef308995e0ded6b!2sLaboratorios%20Napoles%20Sanchez%20Magallanes!5e0!3m2!1ses-419!2smx!4v1763827492540!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
-      },
-      {
-        "id": 35,
-        "titulo": "SUCURSAL VILLA BENITO JUAREZ",
-        "direccion": "Calle del Parque (a lado de la papelería América.) Villa Benito Juárez. Cárdenas, Tabasco.",
-        "telefono": "(937) 3720-404",
-        "whatsapp": "937 140 9939",
-        "horario_general": "Lunes a Sábado: 6:30am a 2:00pm",
-        "latitud": 18.17891347329618,
-        "longitud": -93.90474676102828,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21443.2373268931!2d-93.91615675433779!3d18.179345938962612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e95aa10312479f%3A0xd543be62518a2dc5!2sLaboratorios%20Napoles%20Villa%20Benito%20Ju%C3%A1rez!5e0!3m2!1ses-419!2smx!4v1762881192101!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
-      }
-    ],
-    "Cunduacán": [
-      {
-        "id": 9,
-        "titulo": "SUCURSAL CUNDUACÁN",
-        "direccion": "Calle Adolfo Ruiz Cortínez #8A (entre las calles periférico y Fidencia Sastre, en frente del Hospital Regional) Col. Centro. Cunduacán, Tabasco.",
-        "telefono": "(914) 6881-112",
-        "whatsapp": "993 389 0973",
-        "horario_general": "Lunes a Viernes 6:30am a 3:30pm; Sábado: 6:30am a 3:00pm; Domingo 7:00am a 2:00 pm",
-        "latitud": 18.069644509212175,
-        "longitud": -93.17106009560793,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9458.142384485998!2d-93.17661124606751!3d18.067215631237143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee818104ec2813%3A0x1286855fc18eb79c!2sLABORATORIOS%20NAPOLES%20CUNDUC%C3%81N%20AN%C3%81LISIS%20CL%C3%8DNICOS!5e0!3m2!1ses-419!2sus!4v1762789373811!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 10,
-        "titulo": "SUCURSAL GREGORIO MÉNDEZ",
-        "direccion": "Calle Principal (a lado de la estética Pretty Woman frente a Mini Super Fedrich) C.P. 86696 Gregorio Mendez, Cunduacán, Tabasco.",
-        "telefono": "(914) 1119-817",
-        "whatsapp": "914 111 9817",
-        "horario_general": "Lunes a Sábado: 6:30 am a 2:30 pm",
-        "latitud": 18.048567712963116,
-        "longitud": -93.08634879946723,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3793.4965239823023!2d-93.0889196248197!3d18.048554682955757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDAyJzU0LjgiTiA5M8KwMDUnMTAuOCJX!5e0!3m2!1ses-419!2smx!4v1762799854283!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 34,
-        "titulo": "SUCURSAL TULIPAN",
-        "direccion": "Poblado Carlos Rovirosa (atrás del mercado públic, dentro de la farmacia La Esmeralda de la Chontalpa) C.P. 86687 Tulipan, Cunduacán, Tabasco.",
-        "telefono": "(914) 1030-395",
-        "whatsapp": "914 107 5537",
-        "horario_general": "Lunes a Viernes: 7:00am a 2:00pm; Domingo: 7:00am a 10:00am",
-        "latitud": null,
-        "longitud": null,
-        "url_iframe_mapa": "",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Centla": [
-      {
-        "id": 11,
-        "titulo": "SUCURSAL FRONTERA",
-        "direccion": "Calle Pino Suarez, Pasaje Modelo Local 8-B C.P. 86750 Col. Centro. Frontera, Tabasco.",
-        "telefono": "(913) 3321-093",
-        "whatsapp": "913 109 3125",
-        "horario_general": "Lunes a Viernes: 6:00am a 3:00pm; Sábado: 6:00am a 2:00pm; Domingo: 6:00am a 2:00pm",
-        "latitud": 18.531636715554548,
-        "longitud": -92.6517242062115,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.943197153908!2d-92.6547872888286!3d18.531468868767742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee3b1971555555%3A0x14592a41ffba9128!2sLaboratorios%20Napoles%20Frontera!5e0!3m2!1ses-419!2sus!4v1762799905943!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 36,
-        "titulo": "SUCURSAL VILLA VICENTE GUERRERO",
-        "direccion": "Quintin Arauz #45 (frente a pinturas Comex) Col. Centro C.P. 86761 Centla, Tabasco.",
-        "telefono": "(913) 6880-322",
-        "whatsapp": "913 109 3125",
-        "horario_general": "Lunes a Sábado: 7:00am a 2:00pm",
-        "latitud": 18.39288902331625,
-        "longitud": -92.89463984494455,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d946.5000226132141!2d-92.89471762900047!3d18.39284702769594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee69cd9b9006d1%3A0x7a45b28840f7915f!2sLABORATORIOS%20NAPOLES!5e0!3m2!1ses-419!2sus!4v1762877149651!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Huimanguillo": [
-      {
-        "id": 12,
-        "titulo": "SUCURSAL HUIMANGUILLO",
-        "direccion": "Calle Fernando Aguirre Colorado SN/ Frente a Servicios Agropecuarios C.P. 86400. Huimanguillo, Tabasco.",
-        "telefono": "(917) 3751-981",
-        "whatsapp": "917 116 3518",
-        "horario_general": "Lunes a Viernes: 6:40am a 2:40pm; Sábado: 6:40am a 2:00pm",
-        "latitud": 17.831102565819652,
-        "longitud": -93.39630201971616,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.1651117338315!2d-93.39939728884063!3d17.830893189806165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec2316cfa7aaf7%3A0x7d623ef5ac68cffe!2sLaboratorios%20Napoles%20Huimanguillo!5e0!3m2!1ses-419!2sus!4v1762799988283!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 20,
-        "titulo": "SUCURSAL LA VENTA",
-        "direccion": "Av. Benito Juárez #45, Col. Centro, La Venta, Tabasco.",
-        "telefono": "(923) 2320-486",
-        "whatsapp": "993 111 7870",
-        "horario_general": "Lunes a Sábado: 7:00am a 3:00pm",
-        "latitud": 18.090425701837844,
-        "longitud": -94.04189618753819,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4439.710627121441!2d-94.04473460926872!3d18.089369137111238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e95f2e2607e401%3A0x8b068a13c8392bfc!2sLaboratorios%20Napoles%20La%20Venta!5e0!3m2!1ses-419!2sus!4v1762877571681!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
-      }
-    ],
-    "Jalpa de Méndez": [
-      {
-        "id": 13,
-        "titulo": "SUCURSAL JALPA DE MÉNDEZ LABORATORIO",
-        "direccion": "Calle Constitución B-2 (a un costado de la Ganadera) Barrio La Guadalupe C.P. 86200 Jalpa de Méndez, Tabasco.",
-        "telefono": "(914) 3372-018",
-        "whatsapp": "917 104 6921",
-        "horario_general": "Lunes a Viernes: 6:30am a 6:00pm; Sábado: 6:30am a 3:00pm; Domingo: 7:00am a 13:30pm",
-        "latitud": 18.17715095502619,
-        "longitud": -93.0586900248636,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15162.926375275392!2d-93.07660718062746!3d18.17627431786676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7d03144a6b87%3A0xf5208899b2662c5c!2sLABORATORIOS%20NAPOLES%20AN%C3%81LISIS%20CL%C3%8DNICOS%20JALPA%20DE%20M%C3%89NDEZ!5e0!3m2!1ses-419!2sus!4v1762800125275!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
-      },
-      {
-        "id": 14,
-        "titulo": "SUCURSAL JALPA DE MÉNDEZ TOMA",
-        "direccion": "FCO. I. Madero #4, Barrio la Guadalupe C.P. 86200 Col. Centro Jalpa de Méndez, Tabasco.",
-        "telefono": "(914) 3372-215",
-        "whatsapp": "914 124 9416",
-        "horario_general": "Lunes a Sábado: 6:30am a 3:00pm; Domingo: 7:00am a 1:00pm",
-        "latitud": 18.17926410250381,
-        "longitud": -93.0579888086072,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.1651117338315!2d-93.39939728884063!3d17.830893189806165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec2316cfa7aaf7%3A0x7d623ef5ac68cffe!2sLaboratorios%20Napoles%20Huimanguillo!5e0!3m2!1ses-419!2sus!4v1762799988283!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
-      },
-      {
-        "id": 16,
-        "titulo": "SUCURSAL IQUINUAPA",
-        "direccion": "Calle Gregorio Méndez S/N (Detrás de la parroquia San Juan Bautista) en el consultorio del Dr. Wilfredy Poblado Iquinuapa. Jalpa de Méndez. Tabasco.",
-        "telefono": "(914) 3372-018",
-        "whatsapp": null,
-        "horario_general": "Lunes a Sábado: 6:30am a 2:30pm",
-        "latitud": null,
-        "longitud": null,
-        "url_iframe_mapa": "",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 17,
-        "titulo": "SUCURSAL AYAPA",
-        "direccion": "Calle Santa Cruz, Col. Centro. C.P: 86209 Ayapa, Jalpa de Méndez, Tabasco.",
-        "telefono": "(914) 3372-018",
-        "whatsapp": "917 104 6921",
-        "horario_general": "Lunes a Sábado: 7:00am a 10:00am",
-        "latitud": null,
-        "longitud": null,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1763827186891!5m2!1ses-419!2smx!6m8!1m7!1sj1LGADdHzJXGjM1K9LOYIA!2m2!1d18.22478426722533!2d-93.1109361750156!3f67.82021431103922!4f-13.74825887904511!5f0.7820865974627469",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 18,
-        "titulo": "SUCURSAL MECOACAN",
-        "direccion": "Carretera Principal Jalpa - Chiltepec (en la Farmacia Medifar) CP. 86216 Mecoacan, Jalpa de Méndez, Tabasco.",
-        "telefono": "(914) 3372-018",
-        "whatsapp": "917 104 6921",
-        "horario_general": "Lunes a Sábado: 7:00am a 10:00am",
-        "latitud": null,
-        "longitud": null,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3789.3956255477033!2d-93.08284012486224!3d18.23767657775459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee63e81faf2cad%3A0xa3ce723fc5e7b923!2sLaboratorios%20Napoles%20Mecoacan!5e0!3m2!1ses-419!2smx!4v1763827266793!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 19,
-        "titulo": "SUCURSAL VILLA JALUPA",
-        "direccion": "Villa Jalupa Centro (a un Costado del Parque, frente a la Escuela 5 de Febrero) C.P.86200 Plaza San Juan Bautista Jalupa, Jalpa de Méndez, Tabasco.",
-        "telefono": null,
-        "whatsapp": "914 107 9323",
-        "horario_general": "Lunes a Sábado: 6:00 am a 10:00 am",
-        "latitud": 18.136192106696004,
-        "longitud": -93.04685333931441,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d445.006895257678!2d-93.04705103439868!3d18.136017994578218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7defb962c66b%3A0xaf514255e88f2053!2sLaboratorios%20Napoles%20Jalupa!5e0!3m2!1ses-419!2smx!4v1762881582377!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
-      }
-    ],
-    "Jalapa": [
-      {
-        "id": 15,
-        "titulo": "SUCURSAL JALAPA",
-        "direccion": "Calle Jose Maria Pino Suarez #508 CP. 86850 Jalapa, Tabasco.",
-        "telefono": "(932) 6880-532",
-        "whatsapp": "932 127 5985",
-        "horario_general": "Lunes a Sábado: 6:30am a 2:30pm",
-        "latitud": 17.720785080837782,
-        "longitud": -92.81130612526951,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3800.5079877149756!2d-92.81417608884246!3d17.720687993047225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edc17afa99779d%3A0xbd6da876f3c0d1ca!2sLaboratorios%20Napoles%20Jalapa!5e0!3m2!1ses-419!2sus!4v1762800261274!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Macuspana": [
-      {
-        "id": 21,
-        "titulo": "SUCURSAL MACUSPANA LABORATORIO",
-        "direccion": "Calle Jose Narciso Rovirosa #63 Col. Centro (entre prolongación de a la torre y carolinas) C.P.86700 Macuspana, Tabasco.",
-        "telefono": "(936) 1289-322",
-        "whatsapp": "936 128 9322",
-        "horario_general": "Lunes a Sábado: 6:30am a 3:00pm; Domingo: 7:00am a 1:30pm",
-        "latitud": 17.76306366550196,
-        "longitud": -92.59761266462768,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7135.201833147071!2d-92.59962739185093!3d17.76153831018632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edf1eccd87c671%3A0x1dde98d39d347daf!2sLaboratorios%20Napoles%20Macuspana!5e0!3m2!1ses-419!2smx!4v1762881653736!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
-      },
-      {
-        "id": 22,
-        "titulo": "SUCURSAL MACUSPANA TOMA",
-        "direccion": "Calle Prolongación a la Torre #47 (Esquina José Narciso Rovirosa y Oropeza) C.P.86700 Macuspana, Tabasco.",
-        "telefono": "(936) 3629-383",
-        "whatsapp": "993 235 5413",
-        "horario_general": "Lunes a Viernes: 6:30am a 2:00pm; Sábado: 6:30am a 12:30pm",
-        "latitud": null,
-        "longitud": null,
-        "url_iframe_mapa": "",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
-      },
-      {
-        "id": 23,
-        "titulo": "SUCURSAL SAN CARLOS",
-        "direccion": "Calle Hidalgo #22 Entre Calle Pozo y Pino Suárez C.P. 86722 Macuspana, Tabasco.",
-        "telefono": "(936) 3610-830",
-        "whatsapp": "936 106 6704",
-        "horario_general": "Lunes a Viernes: 7:00am a 2:00pm; Sábado: 7:00am a 1:00pm",
-        "latitud": 17.842389822335583,
-        "longitud": -92.49208476004621,
-        "url_iframe_mapa": "",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 24,
-        "titulo": "SUCURSAL SAN FERNANDO",
-        "direccion": "Calle es Benito Juarez-Tepetitan s/n, col. Centro CP. 86725 San Fernando, Macuspana, Tabasco.",
-        "telefono": null,
-        "whatsapp": "936 106 6482",
-        "horario_general": "Lunes a Viernes: 7:00am a 2:00pm; Sábado: 7:00 am a 1:00 pm",
-        "latitud": 17.819945535884745,
-        "longitud": -92.46194384151462,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243116.66460445238!2d-92.49009630533084!3d17.80589038358675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edf70038b6575d%3A0x9586f05cb9154c5e!2sLaboratorios%20N%C3%A1poles%20san%20Fernando!5e0!3m2!1ses-419!2smx!4v1762882038989!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Nacajuca": [
-      {
-        "id": 26,
-        "titulo": "SUCURSAL NACAJUCA LABORATORIO",
-        "direccion": "Calle Guillermo Prieto #38B, (frente al Palacio La Fantasía y a un costado de pollo guerrero) Col. Centro, Nacajuca, Tabasco.",
-        "telefono": null,
-        "whatsapp": "914 118 5550",
-        "horario_general": "Lunes a Sábado de 6:30am a 3:00pm",
-        "latitud": 18.170040246649148,
-        "longitud": -93.01346048565395,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33330.61894542934!2d-93.05393199395337!3d18.18397793015738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7c803df1ee87%3A0x2d4328a8672e426d!2sLaboratorios%20Napoles%20Nacajuca!5e0!3m2!1ses-419!2smx!4v1762882122190!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
-      },
-      {
-        "id": 27,
-        "titulo": "SUCURSAL MAZATEUPA",
-        "direccion": "Calle Principal, Poblado Mazateupa, Consultorio D. Remigio Farmacia del Carmen. CP. 86230 Mazateupa, Nacajuca, Tabasco.",
-        "telefono": "(914) 1040-104",
-        "whatsapp": "914 118 5550",
-        "horario_general": "Lunes a Sábado: 7:00am a 10:00am",
-        "latitud": null,
-        "longitud": null,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3790.142276894896!2d-93.01017689999999!3d18.203384500000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7b3e28fe275f%3A0xb139586f02d7e947!2sLaboratorios%20Napoles%20Mazateupa!5e0!3m2!1ses-419!2smx!4v1763827381028!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Paraíso": [
-      {
-        "id": 28,
-        "titulo": "SUCURSAL PARAISO",
-        "direccion": "Santos Degollado #603 (entre Nicolás Bravo y Regino Hernández Llergo). Col. Centro. C.P. 86605, Paraiso, Tabasco.",
-        "telefono": "(933) 3333-697",
-        "whatsapp": "933 157 1650",
-        "horario_general": "Lunes a Viernes: 6:30 am a 3:00 pm; Sábado: 6:30am a 2:00pm",
-        "latitud": 18.399743489801136,
-        "longitud": -93.21068446030694,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3785.8528965379132!2d-93.21387092438978!3d18.39954497285913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee8cd33b5b850f%3A0xb31c39f5eb3a1593!2sLaboratorios%20Napoles%20Paraiso!5e0!3m2!1ses-419!2smx!4v1762882254527!5m2!1ses-419!2smx",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
-      }
-    ],
-    "Tacotalpa": [
-      {
-        "id": 30,
-        "titulo": "SUCURSAL TACOTALPA",
-        "direccion": "Calle Francisco Lanz Cazal #102 (a un costado de la Clínica Santa Elena y Palacio Municipal) C.P. 86870 Tacotalpa, Tabasco.",
-        "telefono": "(932) 3240-471",
-        "whatsapp": "932 125 3136",
-        "horario_general": "Lunes a Sábado: 6:30 am. a 2:30pm; Domingo: 7:00am a 12:00 pm",
-        "latitud": 17.59275565416816,
-        "longitud": -92.82595847011069,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3803.214075413816!2d-92.83133361659388!3d17.59256645389753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edbfaa92251809%3A0x7f84f849574a0849!2sLaboratorios%20Napoles%20Tacotalpa!5e0!3m2!1ses-419!2sus!4v1762877300043!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Teapa": [
-      {
-        "id": 32,
-        "titulo": "SUCURSAL TEAPA",
-        "direccion": "Av. Gregorio Méndez #201, Col. Centro C.P. 86800 Teapa, Tabasco.",
-        "telefono": "(932) 1227-872",
-        "whatsapp": "932 122 7872",
-        "horario_general": "Lunes a Viernes: 6:00am a 2:30pm; Sabado a Domingo: 7:00am a 2:00pm",
-        "latitud": 17.55140575912475,
-        "longitud": -92.95196586401538,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3804.084238626898!2d-92.95500212440409!3d17.55117559806515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edb0b354038aef%3A0x56c65afddf90b78c!2sLaboratorios%20Napoles%20Teapa!5e0!3m2!1ses-419!2sus!4v1762877260856!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Tenosique": [
-      {
-        "id": 33,
-        "titulo": "SUCURSAL TENOSIQUE",
-        "direccion": "Calle 23 #204 entre Calle 28 y calle 26 Col. Centro C.P. 86901 Tenosique, Tabasco.",
-        "telefono": "(934) 3421-630",
-        "whatsapp": "934 1100 226",
-        "horario_general": "Lunes a Viernes: 6:30am a 3:00pm; Sábado: 6:30am a 1:00 pm; Domingo: 7:00 am – 1:00pm",
-        "latitud": 17.477154554711955,
-        "longitud": -91.42499710449889,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.6396121393213!2d-91.42812992440528!3d17.476955000217902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f390a04bd792af%3A0x92bf34b5e35e7734!2sLaboratorios%20Napoles%20Tenosique!5e0!3m2!1ses-419!2sus!4v1762877195368!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ]
-  },
-  "Veracruz": {
-    "Agua Dulce": [
-      {
-        "id": 37,
-        "titulo": "SUCURSAL AGUA DULCE",
-        "direccion": "Av. Francisco I Madero #670 frente a Marcos Cuba C.P. 96660 Col. Centro. Agua Dulce, Veracruz.",
-        "telefono": "(923) 2331-151",
-        "whatsapp": "993 107 7927",
-        "horario_general": "Lunes a Viernes: 7:00am a 3:00pm; Sábado: 7:00am a 2:00pm; Domingo: 7:30am a 1:00pm",
-        "latitud": 18.138650999609048,
-        "longitud": -94.14486154511268,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.9717942169121!2d-94.14507947457963!3d18.138620093962203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e967f8316c3cb7%3A0x88a900d02889e3c7!2sLaboratorios%20Napoles%20Agua%20dulce!5e0!3m2!1ses-419!2sus!4v1762876862497!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Las Choapas": [
-      {
-        "id": 38,
-        "titulo": "SUCURSAL LAS CHOAPAS LABORATORIO",
-        "direccion": "Av. Miguel Hidalgo #106, Col. Centro CP. 96980 Las Choapas, Veracruz.",
-        "telefono": "(923) 2373-740",
-        "whatsapp": "932 3238 0508",
-        "horario_general": "Lunes a Viernes: 6:30 am a 3:30 pm; Sábado: 7:00 am a 2:00 pm",
-        "latitud": 17.907359928468484,
-        "longitud": -94.08923709838596,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3796.5322144984734!2d-94.09203732439816!3d17.907313987618362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ebdd2a9a32e6c9%3A0xd4166084be3301b3!2sLaboratorios%20Napoles%20Las%20Choapas!5e0!3m2!1ses-419!2sus!4v1762877003659!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      },
-      {
-        "id": 39,
-        "titulo": "SUCURSAL LAS CHOAPAS TOMA",
-        "direccion": "Avenida 20 de noviembre #1114 (aún costado de la veterinaria el caporal) Col. La sabana. Las Choapas, Veracruz.",
-        "telefono": "(923) 1380-304",
-        "whatsapp": "993 235 5413",
-        "horario_general": "Lunes a Sábado: 6:30am a 2:30pm",
-        "latitud": 17.893047497968933,
-        "longitud": -94.10410007191832,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3796.840947837025!2d-94.10940011655445!3d17.892889244444913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ebdd6ec323cf4f%3A0x4e3602dd628e2f59!2sLaboratorios%20Napoles%20Las%20Choapas%20toma!5e0!3m2!1ses-419!2sus!4v1762876919837!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ]
-  },
-  "Chiapas": {
-    "Yajalón": [
-      {
-        "id": 40,
-        "titulo": "SUCURSAL YAJALÓN",
-        "direccion": "1ra. Av. Norte Poniente #01 Col. Centro. CP. 29930 Yajalón, Chiapas.",
-        "telefono": "(919) 6741-862",
-        "whatsapp": "919 130 2268",
-        "horario_general": "Lunes a Viernes 6:30am a 3:00pm; Sábado: 6:30am a 1:00pm; Domingo: 7:00am a 12:00 pm",
-        "latitud": 17.1747695400603,
-        "longitud": -92.33386082723321,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3811.9093366566185!2d-92.33665032441012!3d17.17462090889888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f285d0f9a7039d%3A0xa565d9d132011c7d!2sLaboratorios%20Napoles%20Yajal%C3%B3n!5e0!3m2!1ses-419!2sus!4v1762876769298!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Reforma": [
-      {
-        "id": 41,
-        "titulo": "SUCURSAL REFORMA",
-        "direccion": "Calle Margarita Maza de Juárez #203, Esq. Francisco I. Madero. C.P. 29500 Reforma, Chiapas.",
-        "telefono": "(917) 3282-010",
-        "whatsapp": "917 135 1435",
-        "horario_general": "Lunes a Viernes: 6:30am a 3:00pm; Sábado: 6:30am a 2:30pm; Domingo: 7:00 am a 2:00pm",
-        "latitud": 17.863533713419532,
-        "longitud": -93.14942007064566,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d237.3418082255142!2d-93.14940531849713!3d17.86351360933709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec2dbc7fe83e97%3A0xdc7eb17440d7025b!2sLaboratorios%20Napoles%20Reforma!5e0!3m2!1ses-419!2sus!4v1762876716250!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Amatán": [
-      {
-        "id": 42,
-        "titulo": "SUCURSAL AMATÁN",
-        "direccion": "Constitución S/N esquina con Belisario Domínguez. Col. Centro. CP. 29700 Amatan, Chiapas.",
-        "telefono": "S/N",
-        "whatsapp": null,
-        "horario_general": "Lunes a Sábado: 6:30am a 2:00PM",
-        "latitud": 17.37319639567139,
-        "longitud": -92.81805813482045,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d237.98778871946038!2d-92.81839542258007!3d17.37313207950652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sus!4v1762876618636!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ],
-    "Salto de Agua": [
-      {
-        "id": 43,
-        "titulo": "SUCURSAL SALTO DE AGUA",
-        "direccion": "Calle Miguel Hidalgo Col, Centro. C.P. 29900 Salto de Agua, Chiapas.",
-        "telefono": null,
-        "whatsapp": "916 111 6728",
-        "horario_general": "Lunes a Sábado: 6:30am a 3:00pm; Domingo: 7:00am a 2:00pm",
-        "latitud": 17.5575929759102,
-        "longitud": -92.33284239710352,
-        "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3803.9525713110456!2d-92.33828191659849!3d17.5574446549944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f271f8a603fc0d%3A0xee29d6c0ae37a81!2sLaboratorios%20Napoles%20Salto%20de%20Agua!5e0!3m2!1ses-419!2sus!4v1762876317025!5m2!1ses-419!2sus",
-        "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-        "servicios": "Análisis clínicos"
-      }
-    ]
-  }
+    "Tabasco": {
+        "Centro": [
+            {
+                "id": 1,
+                "titulo": "SUCURSAL VILLAHERMOSA",
+                "direccion": "Calle Miguel Hidalgo #322 Col. Tamulte de las Barrancas. Villahermosa, Tabasco.",
+                "telefono": "(993) 3511-528",
+                "whatsapp": "993 235 5413",
+                "horario_general": "Lunes a Viernes: 6:00am a 7:30pm; Sábado: 6:00am a 3:00pm; Domingo: 7:00am a 2:00pm",
+                "latitud": 17.970675435081063,
+                "longitud": -92.95695791280816,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d564.1556916804243!2d-92.95696730053903!3d17.970733478424872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edd773398a3743%3A0xc0c4e527ecacf1a3!2sLABORATORIOS%20NAPOLES%20AN%C3%81LISIS%20CL%C3%8DNICOS%20VILLAHERMOSA!5e0!3m2!1ses-419!2smx!4v1762785930659!5m2!1ses-419!2smx",
+                "servicios": "Análisis clínicos, Audiometría, Espirometría, Endoscopia, Colposcopia, Rayos X, Ultrasonido, Densitometría ósea, Prueba de Holter, Papanicolaou, Electrocardiograma"
+            },
+            {
+                "id": 4,
+                "titulo": "SUCURSAL BUENA VISTA",
+                "direccion": "Calle Jose Maria Pino Suarez, Frente a la Primaria Martha Hernández de Montejo CP. 86283 Buena Vista, Centro, Tabasco.",
+                "telefono": null,
+                "whatsapp": "993 345 9914",
+                "horario_general": "Lunes a Sábado: 7:00am a 10:00am",
+                "latitud": 18.148754479832867,
+                "longitud": -92.75187621236653,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d304.88587220350627!2d-92.75258243074497!3d18.14862399375667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee0cec9798513f%3A0x84dd05a29dafdb9e!2sLABORATORIOS%20NAPOLES!5e0!3m2!1ses-419!2sus!4v1762788246627!5m2!1ses-419!2sus",
+                "img": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzSVJhwbz0MU_TY-a_XsssUf2yTCCj0Q6EBYq56fyiCSltckdRZQinG4eS3Bnzwef-Qq1kW5obW8oYubKr5yZv9o8FA5lP4tF0N3y5bzGq4Jj1jsEW_MS-3SzLHiPXtKsCKRIo1gw=w426-h240-k-no",
+                "servicios": "Analisis Clinicos"
+            },
+            {
+                "id": 31,
+                "titulo": "SUCURSAL TAMULTE DE LAS SABANAS",
+                "direccion": "Miguel Hidalgo #181, Jose G. Asmitia CP. 86250 Tamulte de las Sabanas, Tabasco.",
+                "telefono": "(993) 3376-266",
+                "whatsapp": "993 699 0962",
+                "horario_general": "Lunes a Sábado: 7:00am a 2:00pm",
+                "latitud": 18.16141376027061,
+                "longitud": -92.7821005222404,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3791.0550446520806!2d-92.7856732243939!3d18.161378080046724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee732c2dddf089%3A0x613ed75313c2828d!2sLaboratorios%20Napoles%20Tamulte%20de%20las%20Sabanas!5e0!3m2!1ses-419!2smx!4v1762881316698!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Analisis Clinicos"
+            }
+        ],
+        "Comalcalco": [
+            {
+                "id": 2,
+                "titulo": "SUCURSAL ALDAMA",
+                "direccion": "Calle Jose María Morelos y Pavón S/N, Esq. 27 de Febrero C.P.86640 Col. Centro, Comalcalco, Tabasco.",
+                "telefono": "(933) 3352-140",
+                "whatsapp": "933 133 8213",
+                "horario_general": "Lunes a Sábado: 7:00am a 2:00pm",
+                "latitud": 18.24208469542989,
+                "longitud": -93.3480814412135,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242515.97851819135!2d-93.3501781!3d18.2415059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee977dc073c03f%3A0x5b58cfc9d188c025!2sLaboratorios%20Napoles%20Aldama!5e0!3m2!1ses-419!2smx!4v1762786197257!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            },
+            {
+                "id": 6,
+                "titulo": "SUCURSAL ARENA",
+                "direccion": "1ra. Carretera Principal ( cerca del Centro de Salud) Arena, Comalcalco.",
+                "telefono": "(933) 3343-298",
+                "whatsapp": "933 159 8345",
+                "horario_general": "Lunes a Sábado: 7:00am a 10:00am",
+                "latitud": null,
+                "longitud": null,
+                "url_iframe_mapa": "",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            },
+            {
+                "id": 7,
+                "titulo": "SUCURSAL COMALCALCO",
+                "direccion": "Calle Juárez #602, entre Manuel González y Pedro C. Colorado C.P. 86300 Col. Centro. Comalcalco, Tabasco.",
+                "telefono": "(933) 3343-298",
+                "whatsapp": "933 159 8345",
+                "horario_general": "Lunes a Sábado: 7:00am a 2:00pm",
+                "latitud": 18.260344383685712,
+                "longitud": -93.22221868137461,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.8062630712856!2d-93.22224080959876!3d18.260395644866435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee8e5491cf5c31%3A0x5ae52e96cc8b210a!2sLaboratorios%20Napoles%20Comalcalco!5e0!3m2!1ses-419!2sus!4v1762788508976!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            },
+            {
+                "id": 8,
+                "titulo": "SUCURSAL TECOLUTILLA",
+                "direccion": "Calle Benito Juarez (entre Cerrada Miguel y Calle Vicente Guerrero a lado de la Óptica Miguel) Tecolutilla, Comalcalco Tabasco.",
+                "telefono": null,
+                "whatsapp": "933 111 0194",
+                "horario_general": "Lunes a Sábado: 7:00am a 2:30pm",
+                "latitud": 18.282973315145572,
+                "longitud": -93.33157678754932,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.77550622223734!2d-93.33160327436421!3d18.282936068079113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee915539ed1c17%3A0xb336fc3b9a7e729!2sLaboratorios%20Napoles%20Tecolutilla!5e0!3m2!1ses-419!2sus!4v1762789280766!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            }
+        ],
+        "Balancán": [
+            {
+                "id": 3,
+                "titulo": "SUCURSAL BALANCÁN",
+                "direccion": "Gregorio Méndez S/N esquina Narciso Rovirosa. Col. Centro C.P. 86930 Balancán, Tabasco.",
+                "telefono": "(934) 3440-220",
+                "whatsapp": "934 246 3951",
+                "horario_general": "Lunes a Sábado: 6:30am a 2:00pm",
+                "latitud": 17.800314087723294,
+                "longitud": -91.53415744497593,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.8208487850284!2d-91.53738682439997!3d17.80011489078342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f3c3cc934cdcdb%3A0x1785680c1224f818!2sLaboratorios%20Napoles%20Balanc%C3%A1n!5e0!3m2!1ses-419!2smx!4v1762786634097!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+            }
+        ],
+        "Cárdenas": [
+            {
+                "id": 5,
+                "titulo": "SUCURSAL CARDENÁS",
+                "direccion": "Plaza Hidalgo #103 (frente al Parque Central, junto al café selecto) C.P. 86500 Col. Centro Cardenás, Tabasco.",
+                "telefono": "(937) 3720-404",
+                "whatsapp": "937 125 3548",
+                "horario_general": "Lunes a Viernes: 6:30am a 3:00pm; Sábados: 6:30am a 2:00pm; Domingo: 7:00am a 12:00pm",
+                "latitud": 17.987969204329783,
+                "longitud": -93.3762997503136,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d948.7007419336151!2d-93.37732167187555!3d17.987901600000008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec20f68c62bd9f%3A0x11ddea99d74ad36c!2sLaboratorios%20Napoles%20C%C3%A1rdenas!5e0!3m2!1ses-419!2sus!4v1762788396231!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma"
+            },
+            {
+                "id": 29,
+                "titulo": "SUCURSAL SANCHEZ MAGALLANES",
+                "direccion": "Av. Juárez carretera principal #253 (a unos metros del IMSS) Sánchez Magallanes, Cárdenas, Tabasco.",
+                "telefono": "923 277 0199",
+                "whatsapp": "937 229 7988",
+                "horario_general": "Lunes a Sábado: 6:30am a 2:00pm",
+                "latitud": 18.289417857413287,
+                "longitud": -93.87124142092283,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5614.486803941354!2d-93.87410388836888!3d18.288666238328606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e94fda543514bb%3A0x7ef308995e0ded6b!2sLaboratorios%20Napoles%20Sanchez%20Magallanes!5e0!3m2!1ses-419!2smx!4v1763827492540!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+            },
+            {
+                "id": 35,
+                "titulo": "SUCURSAL VILLA BENITO JUAREZ",
+                "direccion": "Calle del Parque (a lado de la papelería América.) Villa Benito Juárez. Cárdenas, Tabasco.",
+                "telefono": "(937) 3720-404",
+                "whatsapp": "937 140 9939",
+                "horario_general": "Lunes a Sábado: 7:00am a 2:00pm",
+                "latitud": 18.17891347329618,
+                "longitud": -93.90474676102828,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21443.2373268931!2d-93.91615675433779!3d18.179345938962612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e95aa10312479f%3A0xd543be62518a2dc5!2sLaboratorios%20Napoles%20Villa%20Benito%20Ju%C3%A1rez!5e0!3m2!1ses-419!2smx!4v1762881192101!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+            }
+        ],
+        "Cunduacán": [
+            {
+                "id": 9,
+                "titulo": "SUCURSAL CUNDUACÁN",
+                "direccion": "Calle Adolfo Ruiz Cortínez #8A (entre las calles periférico y Fidencia Sastre, en frente del Hospital Regional) Col. Centro. Cunduacán, Tabasco.",
+                "telefono": "(914) 6881-112",
+                "whatsapp": "993 389 0973",
+                "horario_general": "Lunes a Viernes 6:30am a 4:00pm; Sábado: 6:30am a 3:00pm; Domingo 7:00am a 1:30pm",
+                "latitud": 18.069644509212175,
+                "longitud": -93.17106009560793,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9458.142384485998!2d-93.17661124606751!3d18.067215631237143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee818104ec2813%3A0x1286855fc18eb79c!2sLABORATORIOS%20NAPOLES%20CUNDUC%C3%81N%20AN%C3%81LISIS%20CL%C3%8DNICOS!5e0!3m2!1ses-419!2sus!4v1762789373811!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+            },
+            {
+                "id": 10,
+                "titulo": "SUCURSAL GREGORIO MÉNDEZ",
+                "direccion": "Calle Principal (a lado de la estética Pretty Woman frente a Mini Super Fedrich) C.P. 86696 Gregorio Mendez, Cunduacán, Tabasco.",
+                "telefono": "(914) 1119-817",
+                "whatsapp": "914 111 9817",
+                "horario_general": "Lunes a Sábado: 6:30 am a 2:30 pm",
+                "latitud": 18.048567712963116,
+                "longitud": -93.08634879946723,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3793.4965239823023!2d-93.0889196248197!3d18.048554682955757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDAyJzU0LjgiTiA5M8KwMDUnMTAuOCJX!5e0!3m2!1ses-419!2smx!4v1762799854283!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            },
+            {
+                "id": 34,
+                "titulo": "SUCURSAL TULIPAN",
+                "direccion": "Poblado Carlos Rovirosa (atrás del mercado públic, dentro de la farmacia La Esmeralda de la Chontalpa) C.P. 86687 Tulipan, Cunduacán, Tabasco.",
+                "telefono": "(914) 1030-395",
+                "whatsapp": "914 107 5537",
+                "horario_general": "Lunes a Viernes: 7:00am a 2:00pm; Domingo: 7:00am a 10:00am",
+                "latitud": null,
+                "longitud": null,
+                "url_iframe_mapa": "",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            }
+        ],
+        "Centla": [
+            {
+                "id": 11,
+                "titulo": "SUCURSAL FRONTERA",
+                "direccion": "Calle Pino Suarez, Pasaje Modelo Local 8-B C.P. 86750 Col. Centro. Frontera, Tabasco.",
+                "telefono": "(913) 3321-093",
+                "whatsapp": "913 109 3125",
+                "horario_general": "Lunes a Viernes: 6:00am a 3:00pm; Sábado: 6:30am a 2:00pm; Domingo: 7:00am a 2:00pm",
+                "latitud": 18.531636715554548,
+                "longitud": -92.6517242062115,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.943197153908!2d-92.6547872888286!3d18.531468868767742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee3b1971555555%3A0x14592a41ffba9128!2sLaboratorios%20Napoles%20Frontera!5e0!3m2!1ses-419!2sus!4v1762799905943!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma"
+            },
+            {
+                "id": 36,
+                "titulo": "SUCURSAL VILLA VICENTE GUERRERO",
+                "direccion": "Quintin Arauz #45 (frente a pinturas Comex) Col. Centro C.P. 86761 Centla, Tabasco.",
+                "telefono": "(913) 6880-322",
+                "whatsapp": "913 109 3125",
+                "horario_general": "Lunes a Sábado: 7:00am a 2:00pm",
+                "latitud": 18.39288902331625,
+                "longitud": -92.89463984494455,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d946.5000226132141!2d-92.89471762900047!3d18.39284702769594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee69cd9b9006d1%3A0x7a45b28840f7915f!2sLABORATORIOS%20NAPOLES!5e0!3m2!1ses-419!2sus!4v1762877149651!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            }
+        ],
+        "Huimanguillo": [
+            {
+                "id": 12,
+                "titulo": "SUCURSAL HUIMANGUILLO",
+                "direccion": "Calle Fernando Aguirre Colorado SN/ Frente a Servicios Agropecuarios C.P. 86400. Huimanguillo, Tabasco.",
+                "telefono": "(917) 3751-981",
+                "whatsapp": "917 116 3518",
+                "horario_general": "Lunes a Viernes: 7:00am a 3:00pm; Sábado: 7:00am a 2:00 pm",
+                "latitud": 17.831102565819652,
+                "longitud": -93.39630201971616,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.1651117338315!2d-93.39939728884063!3d17.830893189806165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec2316cfa7aaf7%3A0x7d623ef5ac68cffe!2sLaboratorios%20Napoles%20Huimanguillo!5e0!3m2!1ses-419!2sus!4v1762799988283!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma"
+            },
+            {
+                "id": 20,
+                "titulo": "SUCURSAL LA VENTA",
+                "direccion": "Av. Benito Juárez #45, Col. Centro, La Venta, Tabasco.",
+                "telefono": "(923) 2320-486",
+                "whatsapp": "993 111 7870",
+                "horario_general": "Lunes a Sábado: 7:00am a 3:00pm",
+                "latitud": 18.090425701837844,
+                "longitud": -94.04189618753819,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4439.710627121441!2d-94.04473460926872!3d18.089369137111238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e95f2e2607e401%3A0x8b068a13c8392bfc!2sLaboratorios%20Napoles%20La%20Venta!5e0!3m2!1ses-419!2sus!4v1762877571681!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+            }
+        ],
+        "Jalpa de Méndez": [
+            {
+                "id": 13,
+                "titulo": "SUCURSAL JALPA DE MÉNDEZ LABORATORIO",
+                "direccion": "Calle Constitución B-2 (a un costado de la Ganadera) Barrio La Guadalupe C.P. 86200 Jalpa de Méndez, Tabasco.",
+                "telefono": "(914) 3372-018",
+                "whatsapp": "917 104 6921",
+                "horario_general": "Lunes a Viernes: 6:30am a 6:00pm; Sábado: 6:30am a 3:00pm; Domingo: 7:00am a 12:00pm",
+                "latitud": 18.17715095502619,
+                "longitud": -93.0586900248636,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15162.926375275392!2d-93.07660718062746!3d18.17627431786676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7d03144a6b87%3A0xf5208899b2662c5c!2sLABORATORIOS%20NAPOLES%20AN%C3%81LISIS%20CL%C3%8DNICOS%20JALPA%20DE%20M%C3%89NDEZ!5e0!3m2!1ses-419!2sus!4v1762800125275!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+            },
+            {
+                "id": 14,
+                "titulo": "SUCURSAL JALPA DE MÉNDEZ TOMA",
+                "direccion": "FCO. I. Madero #4, Barrio la Guadalupe C.P. 86200 Col. Centro Jalpa de Méndez, Tabasco.",
+                "telefono": "(914) 3372-215",
+                "whatsapp": "914 124 9416",
+                "horario_general": "Lunes a Sábado: 6:30am a 3:00pm; Domingo: 7:00am a 1:00pm",
+                "latitud": 18.17926410250381,
+                "longitud": -93.0579888086072,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.1651117338315!2d-93.39939728884063!3d17.830893189806165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec2316cfa7aaf7%3A0x7d623ef5ac68cffe!2sLaboratorios%20Napoles%20Huimanguillo!5e0!3m2!1ses-419!2sus!4v1762799988283!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+            },
+            {
+                "id": 16,
+                "titulo": "SUCURSAL IQUINUAPA",
+                "direccion": "Calle Gregorio Méndez S/N (Detrás de la parroquia San Juan Bautista) en el consultorio del Dr. Wilfredy Poblado Iquinuapa. Jalpa de Méndez. Tabasco.",
+                "telefono": "(914) 3372-018",
+                "whatsapp": null,
+                "horario_general": "Lunes a Sábado: 6:30am a 2:30pm",
+                "latitud": null,
+                "longitud": null,
+                "url_iframe_mapa": "",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            },
+            {
+                "id": 17,
+                "titulo": "SUCURSAL AYAPA",
+                "direccion": "Calle Santa Cruz, Col. Centro. C.P: 86209 Ayapa, Jalpa de Méndez, Tabasco.",
+                "telefono": "(914) 3372-018",
+                "whatsapp": "917 104 6921",
+                "horario_general": "Lunes a Sábado: 7:00am a 10:00am",
+                "latitud": null,
+                "longitud": null,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1763827186891!5m2!1ses-419!2smx!6m8!1m7!1sj1LGADdHzJXGjM1K9LOYIA!2m2!1d18.22478426722533!2d-93.1109361750156!3f67.82021431103922!4f-13.74825887904511!5f0.7820865974627469",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            },
+            {
+                "id": 18,
+                "titulo": "SUCURSAL MECOACAN",
+                "direccion": "Carretera Principal Jalpa - Chiltepec (en la Farmacia Medifar) CP. 86216 Mecoacan, Jalpa de Méndez, Tabasco.",
+                "telefono": "(914) 3372-018",
+                "whatsapp": "917 104 6921",
+                "horario_general": "Lunes a Sábado: 7:00am a 10:00am",
+                "latitud": null,
+                "longitud": null,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3789.3956255477033!2d-93.08284012486224!3d18.23767657775459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee63e81faf2cad%3A0xa3ce723fc5e7b923!2sLaboratorios%20Napoles%20Mecoacan!5e0!3m2!1ses-419!2smx!4v1763827266793!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            },
+            {
+                "id": 19,
+                "titulo": "SUCURSAL VILLA JALUPA",
+                "direccion": "Villa Jalupa Centro (a un Costado del Parque, frente a la Escuela 5 de Febrero) C.P.86200 Plaza San Juan Bautista Jalupa, Jalpa de Méndez, Tabasco.",
+                "telefono": "993 229 8056",
+                "whatsapp": "914 107 9323",
+                "horario_general": "Lunes a Sábado: 7:00am a 10:00am",
+                "latitud": 18.136192106696004,
+                "longitud": -93.04685333931441,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d445.006895257678!2d-93.04705103439868!3d18.136017994578218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7defb962c66b%3A0xaf514255e88f2053!2sLaboratorios%20Napoles%20Jalupa!5e0!3m2!1ses-419!2smx!4v1762881582377!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+            }
+        ],
+        "Jalapa": [
+            {
+                "id": 15,
+                "titulo": "SUCURSAL JALAPA",
+                "direccion": "Calle Jose Maria Pino Suarez #508 CP. 86850 Jalapa, Tabasco.",
+                "telefono": "(932) 6880-532",
+                "whatsapp": "932 127 5985",
+                "horario_general": "Lunes a Sábado: 6:30am a 2:00pm",
+                "latitud": 17.720785080837782,
+                "longitud": -92.81130612526951,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3800.5079877149756!2d-92.81417608884246!3d17.720687993047225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edc17afa99779d%3A0xbd6da876f3c0d1ca!2sLaboratorios%20Napoles%20Jalapa!5e0!3m2!1ses-419!2sus!4v1762800261274!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            }
+        ],
+        "Macuspana": [
+            {
+                "id": 21,
+                "titulo": "SUCURSAL MACUSPANA LABORATORIO",
+                "direccion": "Calle Jose Narciso Rovirosa #63 Col. Centro (entre prolongación de a la torre y carolinas) C.P.86700 Macuspana, Tabasco.",
+                "telefono": "(936) 1289-322",
+                "whatsapp": "936 128 9322",
+                "horario_general": "Lunes a Sábado: 6:30am a 3:00pm; Domingo: 7:00am a 1:30pm",
+                "latitud": 17.76306366550196,
+                "longitud": -92.59761266462768,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7135.201833147071!2d-92.59962739185093!3d17.76153831018632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edf1eccd87c671%3A0x1dde98d39d347daf!2sLaboratorios%20Napoles%20Macuspana!5e0!3m2!1ses-419!2smx!4v1762881653736!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+            },
+            {
+                "id": 22,
+                "titulo": "SUCURSAL MACUSPANA TOMA",
+                "direccion": "Calle Prolongación a la Torre #47 (Esquina José Narciso Rovirosa y Oropeza) C.P.86700 Macuspana, Tabasco.",
+                "telefono": "(936) 3629-383",
+                "whatsapp": "993 235 5413",
+                "horario_general": "Lunes a Sábado: 6:30am a 2:00pm",
+                "latitud": null,
+                "longitud": null,
+                "url_iframe_mapa": "",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            },
+            {
+                "id": 23,
+                "titulo": "SUCURSAL SAN CARLOS",
+                "direccion": "Calle Hidalgo #22 Entre Calle Pozo y Pino Suárez C.P. 86722 Macuspana, Tabasco.",
+                "telefono": "(936) 3610-830",
+                "whatsapp": "936 106 6704",
+                "horario_general": "Lunes a Viernes: 7:00am a 2:00pm; Sábado: 7:00am a 1:00pm",
+                "latitud": 17.842389822335583,
+                "longitud": -92.49208476004621,
+                "url_iframe_mapa": "",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            },
+            {
+                "id": 24,
+                "titulo": "SUCURSAL SAN FERNANDO",
+                "direccion": "Calle es Benito Juarez-Tepetitan s/n, col. Centro CP. 86725 San Fernando, Macuspana, Tabasco.",
+                "telefono": null,
+                "whatsapp": "936 106 6482",
+                "horario_general": "Lunes a Viernes: 7:00am a 2:00pm; Sábado: 7:00 am a 1:00 pm",
+                "latitud": 17.819945535884745,
+                "longitud": -92.46194384151462,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243116.66460445238!2d-92.49009630533084!3d17.80589038358675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edf70038b6575d%3A0x9586f05cb9154c5e!2sLaboratorios%20N%C3%A1poles%20san%20Fernando!5e0!3m2!1ses-419!2smx!4v1762882038989!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            }
+        ],
+        "Nacajuca": [
+            {
+                "id": 26,
+                "titulo": "SUCURSAL NACAJUCA LABORATORIO",
+                "direccion": "Calle Guillermo Prieto #38B, (frente al Palacio La Fantasía y a un costado de pollo guerrero) Col. Centro, Nacajuca, Tabasco.",
+                "telefono": "914 104 0104",
+                "whatsapp": "914 118 5550",
+                "horario_general": "Lunes a Viernes: 6:30am a 2:30pm; Sábado: 6:30am a 2:00pm",
+                "latitud": 18.170040246649148,
+                "longitud": -93.01346048565395,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33330.61894542934!2d-93.05393199395337!3d18.18397793015738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7c803df1ee87%3A0x2d4328a8672e426d!2sLaboratorios%20Napoles%20Nacajuca!5e0!3m2!1ses-419!2smx!4v1762882122190!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+            },
+            {
+                "id": 27,
+                "titulo": "SUCURSAL MAZATEUPA",
+                "direccion": "Calle Principal, Poblado Mazateupa, Consultorio D. Remigio Farmacia del Carmen. CP. 86230 Mazateupa, Nacajuca, Tabasco.",
+                "telefono": "(914) 1040-104",
+                "whatsapp": "914 118 5550",
+                "horario_general": "Lunes a Sábado: 7:00am a 10:00am",
+                "latitud": null,
+                "longitud": null,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3790.142276894896!2d-93.01017689999999!3d18.203384500000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7b3e28fe275f%3A0xb139586f02d7e947!2sLaboratorios%20Napoles%20Mazateupa!5e0!3m2!1ses-419!2smx!4v1763827381028!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            }
+        ],
+        "Paraíso": [
+            {
+                "id": 28,
+                "titulo": "SUCURSAL PARAISO",
+                "direccion": "Santos Degollado #603 (entre Nicolás Bravo y Regino Hernández Llergo). Col. Centro. C.P. 86605, Paraiso, Tabasco.",
+                "telefono": "(933) 3333-697",
+                "whatsapp": "933 157 1650",
+                "horario_general": "Lunes a Sábado 6:30am a 3:30pm; Domingo 7:00am a 1:30pm",
+                "latitud": 18.399743489801136,
+                "longitud": -93.21068446030694,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3785.8528965379132!2d-93.21387092438978!3d18.39954497285913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee8cd33b5b850f%3A0xb31c39f5eb3a1593!2sLaboratorios%20Napoles%20Paraiso!5e0!3m2!1ses-419!2smx!4v1762882254527!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+            }
+        ],
+        "Tacotalpa": [
+            {
+                "id": 30,
+                "titulo": "SUCURSAL TACOTALPA",
+                "direccion": "Calle Francisco Lanz Cazal #102 (a un costado de la Clínica Santa Elena y Palacio Municipal) C.P. 86870 Tacotalpa, Tabasco.",
+                "telefono": "(932) 3240-471",
+                "whatsapp": "932 125 3136",
+                "horario_general": "Lunes a Sábado: 6:30am a 2:30pm; Domingo: 7:00am a 12:00pm",
+                "latitud": 17.59275565416816,
+                "longitud": -92.82595847011069,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3803.214075413816!2d-92.83133361659388!3d17.59256645389753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edbfaa92251809%3A0x7f84f849574a0849!2sLaboratorios%20Napoles%20Tacotalpa!5e0!3m2!1ses-419!2sus!4v1762877300043!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Rayos X"
+            }
+        ],
+        "Teapa": [
+            {
+                "id": 32,
+                "titulo": "SUCURSAL TEAPA",
+                "direccion": "Av. Gregorio Méndez #201, Col. Centro C.P. 86800 Teapa, Tabasco.",
+                "telefono": "932 322 0700",
+                "whatsapp": "932 122 7872",
+                "horario_general": "Lunes a Sábado: 6:30am a 2:30pm; Domingo: 7:00am a 1:00pm",
+                "latitud": 17.55140575912475,
+                "longitud": -92.95196586401538,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3804.084238626898!2d-92.95500212440409!3d17.55117559806515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edb0b354038aef%3A0x56c65afddf90b78c!2sLaboratorios%20Napoles%20Teapa!5e0!3m2!1ses-419!2sus!4v1762877260856!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            }
+        ],
+        "Tenosique": [
+            {
+                "id": 33,
+                "titulo": "SUCURSAL TENOSIQUE",
+                "direccion": "Calle 23 #204 entre Calle 28 y calle 26 Col. Centro C.P. 86901 Tenosique, Tabasco.",
+                "telefono": "(934) 3421-630",
+                "whatsapp": "934 1100 226",
+                "horario_general": "Lunes a Viernes: 6:30am a 3:00pm; Sábado: 6:30am a 2:00pm; Domingo: 7:30am – 12:00pm",
+                "latitud": 17.477154554711955,
+                "longitud": -91.42499710449889,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.6396121393213!2d-91.42812992440528!3d17.476955000217902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f390a04bd792af%3A0x92bf34b5e35e7734!2sLaboratorios%20Napoles%20Tenosique!5e0!3m2!1ses-419!2sus!4v1762877195368!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma"
+            }
+        ]
+    },
+    "Veracruz": {
+        "Agua Dulce": [
+            {
+                "id": 37,
+                "titulo": "SUCURSAL AGUA DULCE",
+                "direccion": "Av. Francisco I Madero #670 frente a Marcos Cuba C.P. 96660 Col. Centro. Agua Dulce, Veracruz.",
+                "telefono": "(923) 2331-151",
+                "whatsapp": "993 107 7927",
+                "horario_general": "Lunes a Viernes: 7:00am a 3:00pm; Sábado: 7:00am a 2:00pm",
+                "latitud": 18.138650999609048,
+                "longitud": -94.14486154511268,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.9717942169121!2d-94.14507947457963!3d18.138620093962203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e967f8316c3cb7%3A0x88a900d02889e3c7!2sLaboratorios%20Napoles%20Agua%20dulce!5e0!3m2!1ses-419!2sus!4v1762876862497!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+            }
+        ],
+        "Las Choapas": [
+            {
+                "id": 38,
+                "titulo": "SUCURSAL LAS CHOAPAS LABORATORIO",
+                "direccion": "Av. Miguel Hidalgo #106, Col. Centro CP. 96980 Las Choapas, Veracruz.",
+                "telefono": "(923) 2373-740",
+                "whatsapp": "932 3238 0508",
+                "horario_general": "Lunes a Viernes: 7:00am a 6:00pm; Sábado: 7:00am a 2:00pm; Domingo: 7:30am a 1:00pm",
+                "latitud": 17.907359928468484,
+                "longitud": -94.08923709838596,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3796.5322144984734!2d-94.09203732439816!3d17.907313987618362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ebdd2a9a32e6c9%3A0xd4166084be3301b3!2sLaboratorios%20Napoles%20Las%20Choapas!5e0!3m2!1ses-419!2sus!4v1762877003659!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Rayos X"
+            },
+            {
+                "id": 39,
+                "titulo": "SUCURSAL LAS CHOAPAS TOMA",
+                "direccion": "Avenida 20 de noviembre #1114 (aún costado de la veterinaria el caporal) Col. La sabana. Las Choapas, Veracruz.",
+                "telefono": "(923) 1380-304",
+                "whatsapp": "993 235 5413",
+                "horario_general": "Lunes a Sábado: 6:30am a 2:30pm",
+                "latitud": 17.893047497968933,
+                "longitud": -94.10410007191832,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3796.840947837025!2d-94.10940011655445!3d17.892889244444913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ebdd6ec323cf4f%3A0x4e3602dd628e2f59!2sLaboratorios%20Napoles%20Las%20Choapas%20toma!5e0!3m2!1ses-419!2sus!4v1762876919837!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Rayos X"
+            }
+        ]
+    },
+    "Chiapas": {
+        "Yajalón": [
+            {
+                "id": 40,
+                "titulo": "SUCURSAL YAJALÓN",
+                "direccion": "1ra. Av. Norte Poniente #01 Col. Centro. CP. 29930 Yajalón, Chiapas.",
+                "telefono": "(919) 6741-862",
+                "whatsapp": "919 130 2268",
+                "horario_general": "Lunes a Viernes 6:30am a 3:00pm; Sábado: 6:30am a 1:00pm; Domingo: 7:00am a 12:00 pm",
+                "latitud": 17.1747695400603,
+                "longitud": -92.33386082723321,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3811.9093366566185!2d-92.33665032441012!3d17.17462090889888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f285d0f9a7039d%3A0xa565d9d132011c7d!2sLaboratorios%20Napoles%20Yajal%C3%B3n!5e0!3m2!1ses-419!2sus!4v1762876769298!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            }
+        ],
+        "Reforma": [
+            {
+                "id": 41,
+                "titulo": "SUCURSAL REFORMA",
+                "direccion": "Calle Margarita Maza de Juárez #203, Esq. Francisco I. Madero. C.P. 29500 Reforma, Chiapas.",
+                "telefono": "(917) 3282-010",
+                "whatsapp": "917 135 1435",
+                "horario_general": "Lunes a Sábado: 6:30am a 1:30pm",
+                "latitud": 17.863533713419532,
+                "longitud": -93.14942007064566,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d237.3418082255142!2d-93.14940531849713!3d17.86351360933709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec2dbc7fe83e97%3A0xdc7eb17440d7025b!2sLaboratorios%20Napoles%20Reforma!5e0!3m2!1ses-419!2sus!4v1762876716250!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma"
+            }
+        ],
+        "Amatán": [
+            {
+                "id": 42,
+                "titulo": "SUCURSAL AMATÁN",
+                "direccion": "Constitución S/N esquina con Belisario Domínguez. Col. Centro. CP. 29700 Amatan, Chiapas.",
+                "telefono": "S/N",
+                "whatsapp": null,
+                "horario_general": "Lunes a Sábado: 6:30am a 2:00PM",
+                "latitud": 17.37319639567139,
+                "longitud": -92.81805813482045,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d237.98778871946038!2d-92.81839542258007!3d17.37313207950652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sus!4v1762876618636!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            }
+        ],
+        "Salto de Agua": [
+            {
+                "id": 43,
+                "titulo": "SUCURSAL SALTO DE AGUA",
+                "direccion": "Calle Miguel Hidalgo Col, Centro. C.P. 29900 Salto de Agua, Chiapas.",
+                "telefono": "916 688 0211",
+                "whatsapp": "916 111 6728",
+                "horario_general": "Lunes a Sábado: 06:30am a 02:30pm; Domingo: 7:00am a 12:00pm",
+                "latitud": 17.5575929759102,
+                "longitud": -92.33284239710352,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3803.9525713110456!2d-92.33828191659849!3d17.5574446549944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f271f8a603fc0d%3A0xee29d6c0ae37a81!2sLaboratorios%20Napoles%20Salto%20de%20Agua!5e0!3m2!1ses-419!2sus!4v1762876317025!5m2!1ses-419!2sus",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos, Electrocardiograma, Rayos X"
+            }
+        ]
+    }
 }
