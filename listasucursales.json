@@ -11,7 +11,7 @@
                 "latitud": 17.970675435081063,
                 "longitud": -92.95695791280816,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d564.1556916804243!2d-92.95696730053903!3d17.970733478424872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edd773398a3743%3A0xc0c4e527ecacf1a3!2sLABORATORIOS%20NAPOLES%20AN%C3%81LISIS%20CL%C3%8DNICOS%20VILLAHERMOSA!5e0!3m2!1ses-419!2smx!4v1762785930659!5m2!1ses-419!2smx",
-                "servicios": "Análisis clínicos, Audiometría, Espirometría, Endoscopia, Colposcopia, Rayos X, Ultrasonido, Densitometría ósea, Prueba de Holter, Papanicolaou, Electrocardiograma"
+                "servicios": "Análisis clínicos, Audiometría, Espirometría, EndoscopÍa, ColposcopÍa, Rayos X, Ultrasonido, Densitometría ósea, Prueba de Holter, Papanicolaou, Electrocardiograma"
             },
             {
                 "id": 4,
@@ -24,7 +24,7 @@
                 "longitud": -92.75187621236653,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d304.88587220350627!2d-92.75258243074497!3d18.14862399375667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee0cec9798513f%3A0x84dd05a29dafdb9e!2sLABORATORIOS%20NAPOLES!5e0!3m2!1ses-419!2sus!4v1762788246627!5m2!1ses-419!2sus",
                 "img": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzSVJhwbz0MU_TY-a_XsssUf2yTCCj0Q6EBYq56fyiCSltckdRZQinG4eS3Bnzwef-Qq1kW5obW8oYubKr5yZv9o8FA5lP4tF0N3y5bzGq4Jj1jsEW_MS-3SzLHiPXtKsCKRIo1gw=w426-h240-k-no",
-                "servicios": "Analisis Clinicos"
+                "servicios": "Analisis clinicos"
             },
             {
                 "id": 31,
@@ -37,7 +37,7 @@
                 "longitud": -92.7821005222404,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3791.0550446520806!2d-92.7856732243939!3d18.161378080046724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee732c2dddf089%3A0x613ed75313c2828d!2sLaboratorios%20Napoles%20Tamulte%20de%20las%20Sabanas!5e0!3m2!1ses-419!2smx!4v1762881316698!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Analisis Clinicos"
+                "servicios": "Analisis clinicos"
             }
         ],
         "Comalcalco": [
@@ -162,7 +162,7 @@
                 "longitud": -93.17106009560793,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9458.142384485998!2d-93.17661124606751!3d18.067215631237143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee818104ec2813%3A0x1286855fc18eb79c!2sLABORATORIOS%20NAPOLES%20CUNDUC%C3%81N%20AN%C3%81LISIS%20CL%C3%8DNICOS!5e0!3m2!1ses-419!2sus!4v1762789373811!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Papanicolaou"
             },
             {
                 "id": 10,
@@ -186,7 +186,7 @@
                 "horario_general": "Lunes a Viernes: 7:00am a 2:00pm; Domingo: 7:00am a 10:00am",
                 "latitud": null,
                 "longitud": null,
-                "url_iframe_mapa": "",
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60673.29479128128!2d-93.3746980513672!3d18.114053799999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee9d3105f3047d%3A0x6debf4831acf1831!2sLaboratorios%20Napoles%20Tulipan!5e0!3m2!1ses-419!2smx!4v1764355400582!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos"
             }
@@ -259,7 +259,7 @@
                 "longitud": -93.0586900248636,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15162.926375275392!2d-93.07660718062746!3d18.17627431786676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7d03144a6b87%3A0xf5208899b2662c5c!2sLABORATORIOS%20NAPOLES%20AN%C3%81LISIS%20CL%C3%8DNICOS%20JALPA%20DE%20M%C3%89NDEZ!5e0!3m2!1ses-419!2sus!4v1762800125275!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Papanicolau"
             },
             {
                 "id": 14,
@@ -272,7 +272,7 @@
                 "longitud": -93.0579888086072,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.1651117338315!2d-93.39939728884063!3d17.830893189806165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec2316cfa7aaf7%3A0x7d623ef5ac68cffe!2sLaboratorios%20Napoles%20Huimanguillo!5e0!3m2!1ses-419!2sus!4v1762799988283!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Papanicolau"
             },
             {
                 "id": 16,
@@ -324,7 +324,7 @@
                 "longitud": -93.04685333931441,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d445.006895257678!2d-93.04705103439868!3d18.136017994578218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7defb962c66b%3A0xaf514255e88f2053!2sLaboratorios%20Napoles%20Jalupa!5e0!3m2!1ses-419!2smx!4v1762881582377!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+                "servicios": "Análisis clínicos"
             }
         ],
         "Jalapa": [
@@ -354,7 +354,7 @@
                 "longitud": -92.59761266462768,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7135.201833147071!2d-92.59962739185093!3d17.76153831018632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edf1eccd87c671%3A0x1dde98d39d347daf!2sLaboratorios%20Napoles%20Macuspana!5e0!3m2!1ses-419!2smx!4v1762881653736!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X"
+                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Papanicolaou"
             },
             {
                 "id": 22,
@@ -365,7 +365,7 @@
                 "horario_general": "Lunes a Sábado: 6:30am a 2:00pm",
                 "latitud": null,
                 "longitud": null,
-                "url_iframe_mapa": "",
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3799.6294110024783!2d-92.5991884!3d17.7620924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edf1a720f70ce5%3A0xeac11601452892cb!2sLaboratorios%20Napoles%20Macuspana!5e0!3m2!1ses-419!2smx!4v1764355573810!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos"
             },
@@ -385,7 +385,7 @@
             {
                 "id": 24,
                 "titulo": "SUCURSAL SAN FERNANDO",
-                "direccion": "Calle es Benito Juarez-Tepetitan s/n, col. Centro CP. 86725 San Fernando, Macuspana, Tabasco.",
+                "direccion": "Calle Benito Juarez-Tepetitan s/n, col. Centro CP. 86725 San Fernando, Macuspana, Tabasco.",
                 "telefono": null,
                 "whatsapp": "936 106 6482",
                 "horario_general": "Lunes a Viernes: 7:00am a 2:00pm; Sábado: 7:00 am a 1:00 pm",
@@ -593,3 +593,4 @@
         ]
     }
 }
+
