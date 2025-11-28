@@ -254,7 +254,7 @@
                 "direccion": "Calle Constitución B-2 (a un costado de la Ganadera) Barrio La Guadalupe C.P. 86200 Jalpa de Méndez, Tabasco.",
                 "telefono": "(914) 3372-018",
                 "whatsapp": "917 104 6921",
-                "horario_general": "Lunes a Viernes: 6:30am a 6:00pm; Sábado: 6:30am a 3:00pm; Domingo: 7:00am a 12:00pm",
+                "horario_general": "Lunes a Viernes: 6:00am a 6:00pm; Sábado: 6:30am a 2:30pm; Domingo: 7:00am a 2:00pm",
                 "latitud": 18.17715095502619,
                 "longitud": -93.0586900248636,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15162.926375275392!2d-93.07660718062746!3d18.17627431786676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7d03144a6b87%3A0xf5208899b2662c5c!2sLABORATORIOS%20NAPOLES%20AN%C3%81LISIS%20CL%C3%8DNICOS%20JALPA%20DE%20M%C3%89NDEZ!5e0!3m2!1ses-419!2sus!4v1762800125275!5m2!1ses-419!2sus",
@@ -593,3 +593,4 @@
         ]
     }
 }
+
