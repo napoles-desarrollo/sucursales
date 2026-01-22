@@ -101,7 +101,7 @@
                 "direccion": "Gregorio Méndez S/N esquina Narciso Rovirosa. Col. Centro C.P. 86930 Balancán, Tabasco.",
                 "telefono": "(934) 3440-220",
                 "whatsapp": "934 246 3951",
-                "horario_general": "Lunes a Sábado: 6:30am a 2:00pm; Domingo: 7:00am a 2:00pm",
+                "horario_general": "Lunes a Sábado: 6:30am a 2:30pm; Domingo: 7:00am a 2:30pm",
                 "latitud": 17.800314087723294,
                 "longitud": -91.53415744497593,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.8208487850284!2d-91.53738682439997!3d17.80011489078342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f3c3cc934cdcdb%3A0x1785680c1224f818!2sLaboratorios%20Napoles%20Balanc%C3%A1n!5e0!3m2!1ses-419!2smx!4v1762786634097!5m2!1ses-419!2smx",
@@ -593,6 +593,7 @@
         ]
     }
 }
+
 
 
 
