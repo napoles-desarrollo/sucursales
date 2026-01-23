@@ -583,7 +583,7 @@
                 "direccion": "Calle Miguel Hidalgo Col, Centro. C.P. 29900 Salto de Agua, Chiapas.",
                 "telefono": "916 688 0211",
                 "whatsapp": "916 111 6728",
-                "horario_general": "Lunes a Sábado: 06:30am a 02:30pm; Domingo: 7:00am a 12:00pm",
+                "horario_general": "Lunes a Sábado: 06:30am a 03:00pm; Domingo: 7:00am a 02:00pm",
                 "latitud": 17.5575929759102,
                 "longitud": -92.33284239710352,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3803.9525713110456!2d-92.33828191659849!3d17.5574446549944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f271f8a603fc0d%3A0xee29d6c0ae37a81!2sLaboratorios%20Napoles%20Salto%20de%20Agua!5e0!3m2!1ses-419!2sus!4v1762876317025!5m2!1ses-419!2sus",
@@ -593,6 +593,7 @@
         ]
     }
 }
+
 
 
 
