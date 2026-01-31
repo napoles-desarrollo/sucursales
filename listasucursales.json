@@ -32,7 +32,7 @@
                 "direccion": "Miguel Hidalgo #181, Jose G. Asmitia CP. 86250 Tamulte de las Sabanas, Tabasco.",
                 "telefono": "",
                 "whatsapp": "993 699 0962",
-                "horario_general": "Lunes a Sábado: 7:00am a 3:00pm",
+                "horario_general": "Lunes a Sábado: 7:00am a 3:00pm; Domingo: 7:00am a 2:00pm",
                 "latitud": 18.16141376027061,
                 "longitud": -92.7821005222404,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3791.0550446520806!2d-92.7856732243939!3d18.161378080046724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee732c2dddf089%3A0x613ed75313c2828d!2sLaboratorios%20Napoles%20Tamulte%20de%20las%20Sabanas!5e0!3m2!1ses-419!2smx!4v1762881316698!5m2!1ses-419!2smx",
@@ -580,6 +580,7 @@
         ]
     }
 }
+
 
 
 
