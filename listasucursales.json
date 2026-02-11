@@ -116,7 +116,7 @@
                 "direccion": "Plaza Hidalgo #103 (frente al Parque Central, junto al café selecto) C.P. 86500 Col. Centro Cardenás, Tabasco.",
                 "telefono": "(937) 3720-404",
                 "whatsapp": "937 125 3548",
-                "horario_general": "Lunes a Viernes: 6:30am a 3:00pm; Sábados: 6:30am a 2:00pm; Domingo: 7:00am a 12:00pm",
+                "horario_general": "Lunes a Sábado: 6:30am a 3:00pm; Domingo: 7:00am a 2:00pm",
                 "latitud": 17.987969204329783,
                 "longitud": -93.3762997503136,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d948.7007419336151!2d-93.37732167187555!3d17.987901600000008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec20f68c62bd9f%3A0x11ddea99d74ad36c!2sLaboratorios%20Napoles%20C%C3%A1rdenas!5e0!3m2!1ses-419!2sus!4v1762788396231!5m2!1ses-419!2sus",
@@ -185,7 +185,7 @@
                 "direccion": "Calle Pino Suarez, Pasaje Modelo Local 8-B C.P. 86750 Col. Centro. Frontera, Tabasco.",
                 "telefono": "(913) 3321-093",
                 "whatsapp": "913 109 3125",
-                "horario_general": "Lunes a Viernes: 6:00am a 3:00pm; Sábado: 6:30am a 2:00pm; Domingo: 7:00am a 2:00pm",
+                "horario_general": "Lunes a Viernes: 6:00am a 3:00pm; Sábado: 6:30am a 2:00pm; Domingo: 6:00am a 2:00pm",
                 "latitud": 18.531636715554548,
                 "longitud": -92.6517242062115,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.943197153908!2d-92.6547872888286!3d18.531468868767742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee3b1971555555%3A0x14592a41ffba9128!2sLaboratorios%20Napoles%20Frontera!5e0!3m2!1ses-419!2sus!4v1762799905943!5m2!1ses-419!2sus",
@@ -213,7 +213,7 @@
                 "direccion": "Calle Fernando Aguirre Colorado SN/ Frente a Servicios Agropecuarios C.P. 86400. Huimanguillo, Tabasco.",
                 "telefono": "(917) 3751-981",
                 "whatsapp": "917 116 3518",
-                "horario_general": "Lunes a Viernes: 6:40am a 2:40pm; Sábado: 6:30am a 2:00 pm",
+                "horario_general": "Lunes a Sábado: 6:30am a 2:00 pm",
                 "latitud": 17.831102565819652,
                 "longitud": -93.39630201971616,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.1651117338315!2d-93.39939728884063!3d17.830893189806165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec2316cfa7aaf7%3A0x7d623ef5ac68cffe!2sLaboratorios%20Napoles%20Huimanguillo!5e0!3m2!1ses-419!2sus!4v1762799988283!5m2!1ses-419!2sus",
@@ -390,7 +390,7 @@
                 "direccion": "Calle Guillermo Prieto #38B, (frente al Palacio La Fantasía y a un costado de pollo guerrero) Col. Centro, Nacajuca, Tabasco.",
                 "telefono": "914 104 0104",
                 "whatsapp": "914 118 5550",
-                "horario_general": "Lunes a Viernes: 6:30am a 2:30pm; Sábado: 6:30am a 2:00pm",
+                "horario_general": "Lunes a Viernes: 6:30am a 2:30pm; Sábado: 6:30am a 2:00pm; Domingo: 7:00am a 2:00pm",
                 "latitud": 18.170040246649148,
                 "longitud": -93.01346048565395,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33330.61894542934!2d-93.05393199395337!3d18.18397793015738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7c803df1ee87%3A0x2d4328a8672e426d!2sLaboratorios%20Napoles%20Nacajuca!5e0!3m2!1ses-419!2smx!4v1762882122190!5m2!1ses-419!2smx",
@@ -480,7 +480,7 @@
                 "direccion": "Av. Francisco I Madero #670 frente a Marcos Cuba C.P. 96660 Col. Centro. Agua Dulce, Veracruz.",
                 "telefono": "(923) 2331-151",
                 "whatsapp": "993 107 7927",
-                "horario_general": "Lunes a Viernes: 7:00am a 3:00pm; Sábado: 7:00am a 2:00pm",
+                "horario_general": "Lunes a Viernes: 7:00am a 3:00pm; Sábado: 7:00am a 2:00pm; Domingo: 7:30am a 1:00pm",
                 "latitud": 18.138650999609048,
                 "longitud": -94.14486154511268,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.9717942169121!2d-94.14507947457963!3d18.138620093962203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e967f8316c3cb7%3A0x88a900d02889e3c7!2sLaboratorios%20Napoles%20Agua%20dulce!5e0!3m2!1ses-419!2sus!4v1762876862497!5m2!1ses-419!2sus",
@@ -580,6 +580,7 @@
         ]
     }
 }
+
 
 
 
