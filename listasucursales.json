@@ -206,6 +206,21 @@
                 "servicios": "Análisis clínicos"
             }
         ],
+        "Emiliano Zapata": [
+            {
+                "id": 45,
+                "titulo": "SUCURSAL Emiliano Zapata",
+                "direccion": "Calle 27 de febrero s/n col centro, Emiliano Zapata, Tabasco.",
+                "telefono": "",
+                "whatsapp": "934 127 6478",
+                "horario_general": "Lunes a Viernes: 7:00am a 2:30pm ",
+                "latitud": 17.741947759866004,
+                "longitud": -91.76533063121774,
+                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3800.060151799413!2d-91.7658027!3d17.7418047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f3cbba517c4e0f%3A0x7b8171ac02a573be!2sLaboratorios%20Napoles%20Emiliano%20Zapata!5e0!3m2!1ses-419!2smx!4v1771363731096!5m2!1ses-419!2smx",
+                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
+                "servicios": "Análisis clínicos"
+            }
+        ],
         "Huimanguillo": [
             {
                 "id": 12,
@@ -580,6 +595,7 @@
         ]
     }
 }
+
 
 
 
