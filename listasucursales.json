@@ -79,19 +79,6 @@
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.8062630712856!2d-93.22224080959876!3d18.260395644866435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee8e5491cf5c31%3A0x5ae52e96cc8b210a!2sLaboratorios%20Napoles%20Comalcalco!5e0!3m2!1ses-419!2sus!4v1762788508976!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos"
-            },
-            {
-                "id": 8,
-                "titulo": "SUCURSAL TECOLUTILLA",
-                "direccion": "Calle Benito Juarez (entre Cerrada Miguel y Calle Vicente Guerrero a lado de la Óptica Miguel) Tecolutilla, Comalcalco Tabasco.",
-                "telefono": null,
-                "whatsapp": "933 111 0194",
-                "horario_general": "Lunes a Viernes: 6:30am a 3:00pm; Sábado: 6:30am a 2:00pm",
-                "latitud": 18.282973315145572,
-                "longitud": -93.33157678754932,
-                "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.77550622223734!2d-93.33160327436421!3d18.282936068079113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee915539ed1c17%3A0xb336fc3b9a7e729!2sLaboratorios%20Napoles%20Tecolutilla!5e0!3m2!1ses-419!2sus!4v1762789280766!5m2!1ses-419!2sus",
-                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos"
             }
         ],
         "Balancán": [
@@ -595,6 +582,7 @@
         ]
     }
 }
+
 
 
 
