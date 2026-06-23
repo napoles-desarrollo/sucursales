@@ -264,19 +264,6 @@
                 "servicios": "Análisis clínicos, Papanicolau"
             },
             {
-                "id": 16,
-                "titulo": "SUCURSAL IQUINUAPA",
-                "direccion": "Calle Gregorio Méndez S/N (Detrás de la parroquia San Juan Bautista) en el consultorio del Dr. Wilfredy Poblado Iquinuapa. Jalpa de Méndez. Tabasco.",
-                "telefono": "(914) 3372-018",
-                "whatsapp": null,
-                "horario_general": "Lunes a Sábado: 6:30am a 2:30pm",
-                "latitud": null,
-                "longitud": null,
-                "url_iframe_mapa": "",
-                "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos"
-            },
-            {
                 "id": 17,
                 "titulo": "SUCURSAL AYAPA",
                 "direccion": "Calle Santa Cruz, Col. Centro. C.P: 86209 Ayapa, Jalpa de Méndez, Tabasco.",
