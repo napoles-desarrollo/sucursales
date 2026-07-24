@@ -13,7 +13,7 @@
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d564.1556916804243!2d-92.95696730053903!3d17.970733478424872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edd773398a3743%3A0xc0c4e527ecacf1a3!2sLABORATORIOS%20NAPOLES%20AN%C3%81LISIS%20CL%C3%8DNICOS%20VILLAHERMOSA!5e0!3m2!1ses-419!2smx!4v1762785930659!5m2!1ses-419!2smx",
                 "servicios": "Análisis clínicos, Audiometría, Espirometría, EndoscopÍa, ColposcopÍa, Rayos X, Ultrasonido, Densitometría ósea, Prueba de Holter, Papanicolaou, Electrocardiograma",
                 "lista_precio": "2",
-                "mapa_movil": "https://maps.app.goo.gl/VLSYUvgi6p7ScwPeA"
+                "mapa_movil": "https://maps.app.goo.gl/z8jJ1Air8KGnMxWd7"
             },
             {
                 "id": 4,
@@ -28,7 +28,7 @@
                 "img": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzSVJhwbz0MU_TY-a_XsssUf2yTCCj0Q6EBYq56fyiCSltckdRZQinG4eS3Bnzwef-Qq1kW5obW8oYubKr5yZv9o8FA5lP4tF0N3y5bzGq4Jj1jsEW_MS-3SzLHiPXtKsCKRIo1gw=w426-h240-k-no",
                 "servicios": "Analisis clinicos",
                 "lista_precio": "34",
-                "mapa_movil": "https://maps.app.goo.gl/N836PALUc4Vz4a5W6"
+                "mapa_movil": "https://maps.app.goo.gl/hxuRyUaRXxmwXjnT7"
             },
             {
                 "id": 31,
@@ -43,7 +43,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Analisis clinicos",
                 "lista_precio": "34",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/diTGqgaJBweVTRgQ8"
             }
         ],
         "Comalcalco": [
@@ -60,7 +60,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "26",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/3iLrAVN6ADAMWfFo9"
             },
             {
                 "id": 6,
@@ -90,7 +90,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "27",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/5jm9N2gLPx49LeYEA"
             }
         ],
         "Balancán": [
@@ -107,7 +107,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X",
                 "lista_precio": "25",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/Q8gqcGWTVX6FwJ8G8"
             }
         ],
         "Cárdenas": [
@@ -124,7 +124,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma",
                 "lista_precio": "59",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/UaZefGWEFKn7XeVq9"
             },
             {
                 "id": 29,
@@ -139,7 +139,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X",
                 "lista_precio": "55",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/zpSdAGQRNZFiA46H7"
             },
             {
                 "id": 35,
@@ -154,7 +154,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X",
                 "lista_precio": "56",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/ZrZdpogTmnGfFc4P8"
             }
         ],
         "Cunduacán": [
@@ -171,7 +171,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Papanicolaou",
                 "lista_precio": "61",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/tCY1eY3i5dsKuJiD8"
             },
             {
                 "id": 34,
@@ -186,7 +186,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "4",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/JZ9UaAfsfLiMK69M9"
             }
         ],
         "Centla": [
@@ -203,7 +203,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma",
                 "lista_precio": "21",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/4r7TEu6SgvPPk3RCA"
             },
             {
                 "id": 36,
@@ -218,7 +218,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "22",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/KkXU3aNeAPfGR5dZA"
             }
         ],
         "Emiliano Zapata": [
@@ -252,7 +252,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma",
                 "lista_precio": "60",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/7mcfD2McVK5XXNnw6"
             },
             {
                 "id": 20,
@@ -267,7 +267,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Colposcopia",
                 "lista_precio": "45",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/JPgVBwBNKc7oRy1Z8"
             }
         ],
         "Jalpa de Méndez": [
@@ -284,7 +284,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Papanicolau",
                 "lista_precio": "46",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/iQzT8cue22qX63N6A"
             },
             {
                 "id": 14,
@@ -299,7 +299,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Papanicolau",
                 "lista_precio": "46",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/pPegCVy3G8gSG8jg6"
             },
             {
                 "id": 17,
@@ -314,7 +314,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "52",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/gv35V2BhwDihD7p97"
             },
             {
                 "id": 18,
@@ -329,7 +329,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "53",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/K3esb4MV4S2zpcVx6"
             },
             {
                 "id": 19,
@@ -344,7 +344,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "54",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/ASNp3RFAQgUjQqJa9"
             }
         ],
         "Jalapa": [
@@ -361,7 +361,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "50",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/BbuP1PkdR4Ah56g28"
             }
         ],
         "Macuspana": [
@@ -378,7 +378,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Papanicolaou",
                 "lista_precio": "41",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/bYNuTPu6PW9q2Exg9"
             },
             {
                 "id": 22,
@@ -393,7 +393,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "41",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/fqmYvxNANejyLzHt6"
             },
             {
                 "id": 23,
@@ -408,7 +408,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "36",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/PQbTWJBdp5aLEV4m7"
             },
             {
                 "id": 24,
@@ -423,7 +423,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "35",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/mEecbAkExC9HidEh8"
             }
         ],
         "Nacajuca": [
@@ -440,7 +440,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X",
                 "lista_precio": "47",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/Mu6kGfrGBEH46eS79"
             },
             {
                 "id": 27,
@@ -455,7 +455,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "51",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/9SzE9U7mpF7uw11d7"
             }
         ],
         "Paraíso": [
@@ -472,7 +472,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X",
                 "lista_precio": "31",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/mkt5VDzqPJ8bCbdZ7"
             }
         ],
         "Tacotalpa": [
@@ -489,7 +489,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma ",
                 "lista_precio": "18",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/dNaoSUJwJHxSXx978"
             }
         ],
         "Teapa": [
@@ -506,7 +506,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "23",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/WjLMpxxJU8VpFeZv6"
             }
         ],
         "Tenosique": [
@@ -523,7 +523,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma",
                 "lista_precio": "16",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/iv8CsGejDZ9JDxtR8"
             }
         ]
     },
@@ -542,7 +542,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Papanicolau",
                 "lista_precio": "49",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/gMJQgzNZzecBby4U7"
             }
         ],
         "Las Choapas": [
@@ -559,7 +559,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Rayos X",
                 "lista_precio": "20",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/pVGdtFFyHQKGX2536"
             },
             {
                 "id": 39,
@@ -574,7 +574,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Rayos X",
                 "lista_precio": "126",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/ACciJKePirBWx8PH6"
             }
         ]
     },
@@ -593,7 +593,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos",
                 "lista_precio": "30",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/Z8LLE55xtoYZJ9Yz6"
             }
         ],
         "Reforma": [
@@ -610,7 +610,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma",
                 "lista_precio": "6",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/exq36A69Gi9gM2hHA"
             }
         ],
         "Amatán": [
@@ -644,7 +644,7 @@
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
                 "servicios": "Análisis clínicos, Electrocardiograma, Rayos X",
                 "lista_precio": "85",
-                "mapa_movil": ""
+                "mapa_movil": "https://maps.app.goo.gl/z82ELU3ZpsYoTyhh8"
             }
         ]
     }
