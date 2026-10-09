@@ -497,7 +497,7 @@
                 "id": 32,
                 "titulo": "SUCURSAL TEAPA",
                 "direccion": "Av. Gregorio Méndez #201, Col. Centro C.P. 86800 Teapa, Tabasco.",
-                "telefono": "932 122 7872",
+                "telefono": null,
                 "whatsapp": "932 122 7872",
                 "horario_general": "Lunes a Sábado: 6:30am a 3:00pm; Domingo: 7:00am a 2:00pm",
                 "latitud": 17.55140575912475,
