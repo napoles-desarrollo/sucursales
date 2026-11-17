@@ -11,7 +11,7 @@
                 "latitud": 17.970675435081063,
                 "longitud": -92.95695791280816,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d564.1556916804243!2d-92.95696730053903!3d17.970733478424872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edd773398a3743%3A0xc0c4e527ecacf1a3!2sLABORATORIOS%20NAPOLES%20AN%C3%81LISIS%20CL%C3%8DNICOS%20VILLAHERMOSA!5e0!3m2!1ses-419!2smx!4v1762785930659!5m2!1ses-419!2smx",
-                "servicios": "Análisis clínicos, Audiometría, Espirometría, Endoscopía, Colposcopía, Rayos X, Ultrasonido, Densitometría ósea, Prueba de Holter, Papanicolaou, Electrocardiograma",
+                "servicios": "Análisis clínicos, Audiometría, Espirometría, Endoscopía, Colposcopía, Rayos X, Ultrasonido, Densitometría ósea, Prueba de Holter, Papanicolaou, Electrocardiograma, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia, Consulta médica",
                 "lista_precio": "2",
                 "mapa_movil": "https://maps.app.goo.gl/z8jJ1Air8KGnMxWd7"
             },
@@ -26,7 +26,7 @@
                 "longitud": -92.75187621236653,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d304.88587220350627!2d-92.75258243074497!3d18.14862399375667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee0cec9798513f%3A0x84dd05a29dafdb9e!2sLABORATORIOS%20NAPOLES!5e0!3m2!1ses-419!2sus!4v1762788246627!5m2!1ses-419!2sus",
                 "img": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzSVJhwbz0MU_TY-a_XsssUf2yTCCj0Q6EBYq56fyiCSltckdRZQinG4eS3Bnzwef-Qq1kW5obW8oYubKr5yZv9o8FA5lP4tF0N3y5bzGq4Jj1jsEW_MS-3SzLHiPXtKsCKRIo1gw=w426-h240-k-no",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "34",
                 "mapa_movil": "https://maps.app.goo.gl/hxuRyUaRXxmwXjnT7"
             },
@@ -41,7 +41,7 @@
                 "longitud": -92.7821005222404,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3791.0550446520806!2d-92.7856732243939!3d18.161378080046724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee732c2dddf089%3A0x613ed75313c2828d!2sLaboratorios%20Napoles%20Tamulte%20de%20las%20Sabanas!5e0!3m2!1ses-419!2smx!4v1762881316698!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "34",
                 "mapa_movil": "https://maps.app.goo.gl/diTGqgaJBweVTRgQ8"
             }
@@ -58,7 +58,7 @@
                 "longitud": -93.3480814412135,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242515.97851819135!2d-93.3501781!3d18.2415059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee977dc073c03f%3A0x5b58cfc9d188c025!2sLaboratorios%20Napoles%20Aldama!5e0!3m2!1ses-419!2smx!4v1762786197257!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "26",
                 "mapa_movil": "https://maps.app.goo.gl/3iLrAVN6ADAMWfFo9"
             },
@@ -73,7 +73,7 @@
                 "longitud": null,
                 "url_iframe_mapa": "",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "28",
                 "mapa_movil": ""
             },
@@ -88,7 +88,7 @@
                 "longitud": -93.22221868137461,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.8062630712856!2d-93.22224080959876!3d18.260395644866435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee8e5491cf5c31%3A0x5ae52e96cc8b210a!2sLaboratorios%20Napoles%20Comalcalco!5e0!3m2!1ses-419!2sus!4v1762788508976!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "27",
                 "mapa_movil": "https://maps.app.goo.gl/5jm9N2gLPx49LeYEA"
             }
@@ -105,7 +105,7 @@
                 "longitud": -91.53415744497593,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.8208487850284!2d-91.53738682439997!3d17.80011489078342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f3c3cc934cdcdb%3A0x1785680c1224f818!2sLaboratorios%20Napoles%20Balanc%C3%A1n!5e0!3m2!1ses-419!2smx!4v1762786634097!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X",
+                "servicios": "Análisis clínicos, Ultrasonido, Rayos X, Electrocardiograma, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "25",
                 "mapa_movil": "https://maps.app.goo.gl/Q8gqcGWTVX6FwJ8G8"
             }
@@ -122,7 +122,7 @@
                 "longitud": -93.3762997503136,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d948.7007419336151!2d-93.37732167187555!3d17.987901600000008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec20f68c62bd9f%3A0x11ddea99d74ad36c!2sLaboratorios%20Napoles%20C%C3%A1rdenas!5e0!3m2!1ses-419!2sus!4v1762788396231!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma",
+                "servicios": "Análisis clínicos, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "59",
                 "mapa_movil": "https://maps.app.goo.gl/UaZefGWEFKn7XeVq9"
             },
@@ -137,7 +137,7 @@
                 "longitud": -93.87124142092283,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5614.486803941354!2d-93.87410388836888!3d18.288666238328606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e94fda543514bb%3A0x7ef308995e0ded6b!2sLaboratorios%20Napoles%20Sanchez%20Magallanes!5e0!3m2!1ses-419!2smx!4v1763827492540!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "55",
                 "mapa_movil": "https://maps.app.goo.gl/zpSdAGQRNZFiA46H7"
             },
@@ -152,7 +152,7 @@
                 "longitud": -93.90474676102828,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21443.2373268931!2d-93.91615675433779!3d18.179345938962612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e95aa10312479f%3A0xd543be62518a2dc5!2sLaboratorios%20Napoles%20Villa%20Benito%20Ju%C3%A1rez!5e0!3m2!1ses-419!2smx!4v1762881192101!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "56",
                 "mapa_movil": "https://maps.app.goo.gl/ZrZdpogTmnGfFc4P8"
             }
@@ -169,7 +169,7 @@
                 "longitud": -93.17106009560793,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9458.142384485998!2d-93.17661124606751!3d18.067215631237143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee818104ec2813%3A0x1286855fc18eb79c!2sLABORATORIOS%20NAPOLES%20CUNDUC%C3%81N%20AN%C3%81LISIS%20CL%C3%8DNICOS!5e0!3m2!1ses-419!2sus!4v1762789373811!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Papanicolaou",
+                "servicios": "Análisis clínicos, Ultrasonido, Rayos X, Electrocardiograma, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "61",
                 "mapa_movil": "https://maps.app.goo.gl/tCY1eY3i5dsKuJiD8"
             },
@@ -184,7 +184,7 @@
                 "longitud": -93.374698,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60673.29479128128!2d-93.3746980513672!3d18.114053799999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee9d3105f3047d%3A0x6debf4831acf1831!2sLaboratorios%20Napoles%20Tulipan!5e0!3m2!1ses-419!2smx!4v1764355400582!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "4",
                 "mapa_movil": "https://maps.app.goo.gl/JZ9UaAfsfLiMK69M9"
             }
@@ -196,12 +196,12 @@
                 "direccion": "Calle Pino Suarez, Pasaje Modelo Local 8-B C.P. 86750 Col. Centro. Frontera, Tabasco.",
                 "telefono": "(913) 3321-093",
                 "whatsapp": "913 109 3125",
-                "horario_general": "Lunes a Viernes: 6:00am a 2:30pm; Sábado: 6:00am a 2:00pm;",
+                "horario_general": "Lunes a Sábado: 6:00am a 2:30pm",
                 "latitud": 18.531636715554548,
                 "longitud": -92.6517242062115,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.943197153908!2d-92.6547872888286!3d18.531468868767742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee3b1971555555%3A0x14592a41ffba9128!2sLaboratorios%20Napoles%20Frontera!5e0!3m2!1ses-419!2sus!4v1762799905943!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "21",
                 "mapa_movil": "https://maps.app.goo.gl/4r7TEu6SgvPPk3RCA"
             },
@@ -216,7 +216,7 @@
                 "longitud": -92.89463984494455,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d946.5000226132141!2d-92.89471762900047!3d18.39284702769594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee69cd9b9006d1%3A0x7a45b28840f7915f!2sLABORATORIOS%20NAPOLES!5e0!3m2!1ses-419!2sus!4v1762877149651!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "22",
                 "mapa_movil": "https://maps.app.goo.gl/KkXU3aNeAPfGR5dZA"
             }
@@ -233,7 +233,7 @@
                 "longitud": -91.76533063121774,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3800.0460848858056!2d-91.7645707!3d17.742467599999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f3cbba517c4e0f%3A0x7b8171ac02a573be!2sLaboratorios%20Napoles%20Emiliano%20Zapata!5e0!3m2!1ses-419!2smx!4v1775066803674!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Papanicolaou",
+                "servicios": "Análisis clínicos, Electrocardiograma, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "16",
                 "mapa_movil": "https://www.google.com/maps/search/?api=1&query=17.741948,-91.765331"
             }
@@ -250,7 +250,7 @@
                 "longitud": -93.39630201971616,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.1651117338315!2d-93.39939728884063!3d17.830893189806165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec2316cfa7aaf7%3A0x7d623ef5ac68cffe!2sLaboratorios%20Napoles%20Huimanguillo!5e0!3m2!1ses-419!2sus!4v1762799988283!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma",
+                "servicios": "Análisis clínicos, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "60",
                 "mapa_movil": "https://maps.app.goo.gl/7mcfD2McVK5XXNnw6"
             },
@@ -265,7 +265,7 @@
                 "longitud": -94.04189618753819,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4439.710627121441!2d-94.04473460926872!3d18.089369137111238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e95f2e2607e401%3A0x8b068a13c8392bfc!2sLaboratorios%20Napoles%20La%20Venta!5e0!3m2!1ses-419!2sus!4v1762877571681!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Colposcopía",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia, Consulta médica, Colposcopía",
                 "lista_precio": "45",
                 "mapa_movil": "https://maps.app.goo.gl/JPgVBwBNKc7oRy1Z8"
             }
@@ -282,7 +282,7 @@
                 "longitud": -93.0586900248636,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15162.926375275392!2d-93.07660718062746!3d18.17627431786676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7d03144a6b87%3A0xf5208899b2662c5c!2sLABORATORIOS%20NAPOLES%20AN%C3%81LISIS%20CL%C3%8DNICOS%20JALPA%20DE%20M%C3%89NDEZ!5e0!3m2!1ses-419!2sus!4v1762800125275!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Papanicolaou",
+                "servicios": "Análisis clínicos, Ultrasonido, Rayos X, Electrocardiograma, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia, Consulta médica",
                 "lista_precio": "46",
                 "mapa_movil": "https://maps.app.goo.gl/iQzT8cue22qX63N6A"
             },
@@ -297,7 +297,7 @@
                 "longitud": -93.0579888086072,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3790.6473816226344!2d-93.0588308!3d18.180150700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7dfef9c87091%3A0x12bf49c46909f915!2sLaboratorios%20Napoles%20Jalpa%20de%20M%C3%A9ndez!5e0!3m2!1ses-419!2smx!4v1776717035465!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Papanicolaou",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "46",
                 "mapa_movil": "https://maps.app.goo.gl/pPegCVy3G8gSG8jg6"
             },
@@ -312,7 +312,7 @@
                 "longitud": -93.110936,
                 "url_iframe_mapa": "https://www.google.com/maps?q=18.224784,-93.110936&z=18&output=embed",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "52",
                 "mapa_movil": "https://maps.app.goo.gl/gv35V2BhwDihD7p97"
             },
@@ -327,7 +327,7 @@
                 "longitud": -93.08284,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3789.3956255477033!2d-93.08284012486224!3d18.23767657775459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee63e81faf2cad%3A0xa3ce723fc5e7b923!2sLaboratorios%20Napoles%20Mecoacan!5e0!3m2!1ses-419!2smx!4v1763827266793!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "53",
                 "mapa_movil": "https://maps.app.goo.gl/K3esb4MV4S2zpcVx6"
             },
@@ -342,7 +342,7 @@
                 "longitud": -93.04685333931441,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d445.006895257678!2d-93.04705103439868!3d18.136017994578218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7defb962c66b%3A0xaf514255e88f2053!2sLaboratorios%20Napoles%20Jalupa!5e0!3m2!1ses-419!2smx!4v1762881582377!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "54",
                 "mapa_movil": "https://maps.app.goo.gl/ASNp3RFAQgUjQqJa9"
             }
@@ -359,7 +359,7 @@
                 "longitud": -92.81130612526951,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3800.5079877149756!2d-92.81417608884246!3d17.720687993047225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edc17afa99779d%3A0xbd6da876f3c0d1ca!2sLaboratorios%20Napoles%20Jalapa!5e0!3m2!1ses-419!2sus!4v1762800261274!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "50",
                 "mapa_movil": "https://maps.app.goo.gl/BbuP1PkdR4Ah56g28"
             }
@@ -376,7 +376,7 @@
                 "longitud": -92.59761266462768,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7135.201833147071!2d-92.59962739185093!3d17.76153831018632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edf1eccd87c671%3A0x1dde98d39d347daf!2sLaboratorios%20Napoles%20Macuspana!5e0!3m2!1ses-419!2smx!4v1762881653736!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Papanicolaou",
+                "servicios": "Análisis clínicos, Ultrasonido, Rayos X, Electrocardiograma, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "41",
                 "mapa_movil": "https://maps.app.goo.gl/bYNuTPu6PW9q2Exg9"
             },
@@ -391,7 +391,7 @@
                 "longitud": -92.599188,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3799.6294110024783!2d-92.5991884!3d17.7620924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edf1a720f70ce5%3A0xeac11601452892cb!2sLaboratorios%20Napoles%20Macuspana!5e0!3m2!1ses-419!2smx!4v1764355573810!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "41",
                 "mapa_movil": "https://maps.app.goo.gl/fqmYvxNANejyLzHt6"
             },
@@ -406,7 +406,7 @@
                 "longitud": -92.49208476004621,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3798.1383374692286!2d-92.5290632!3d17.8321488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edf75a9a64a57b%3A0xa26a589470b5bda2!2sLaboratorio%20Napoles!5e0!3m2!1ses-419!2smx!4v1764362382276!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "36",
                 "mapa_movil": "https://maps.app.goo.gl/PQbTWJBdp5aLEV4m7"
             },
@@ -421,7 +421,7 @@
                 "longitud": -92.46194384151462,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243116.66460445238!2d-92.49009630533084!3d17.80589038358675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edf70038b6575d%3A0x9586f05cb9154c5e!2sLaboratorios%20N%C3%A1poles%20san%20Fernando!5e0!3m2!1ses-419!2smx!4v1762882038989!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "35",
                 "mapa_movil": "https://maps.app.goo.gl/mEecbAkExC9HidEh8"
             }
@@ -438,7 +438,7 @@
                 "longitud": -93.01346048565395,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33330.61894542934!2d-93.05393199395337!3d18.18397793015738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7c803df1ee87%3A0x2d4328a8672e426d!2sLaboratorios%20Napoles%20Nacajuca!5e0!3m2!1ses-419!2smx!4v1762882122190!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X",
+                "servicios": "Análisis clínicos, Ultrasonido, Rayos X, Electrocardiograma, Papanicolaou, Prueba de Holter, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia, Colposcopía",
                 "lista_precio": "47",
                 "mapa_movil": "https://maps.app.goo.gl/Mu6kGfrGBEH46eS79"
             },
@@ -453,7 +453,7 @@
                 "longitud": -93.010177,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3790.142276894896!2d-93.01017689999999!3d18.203384500000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee7b3e28fe275f%3A0xb139586f02d7e947!2sLaboratorios%20Napoles%20Mazateupa!5e0!3m2!1ses-419!2smx!4v1763827381028!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "51",
                 "mapa_movil": "https://maps.app.goo.gl/9SzE9U7mpF7uw11d7"
             }
@@ -470,7 +470,7 @@
                 "longitud": -93.21068446030694,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3785.8528965379132!2d-93.21387092438978!3d18.39954497285913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ee8cd33b5b850f%3A0xb31c39f5eb3a1593!2sLaboratorios%20Napoles%20Paraiso!5e0!3m2!1ses-419!2smx!4v1762882254527!5m2!1ses-419!2smx",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X",
+                "servicios": "Análisis clínicos, Ultrasonido, Rayos X, Electrocardiograma, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "31",
                 "mapa_movil": "https://maps.app.goo.gl/mkt5VDzqPJ8bCbdZ7"
             }
@@ -487,7 +487,7 @@
                 "longitud": -92.82595847011069,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3803.214075413816!2d-92.83133361659388!3d17.59256645389753!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edbfaa92251809%3A0x7f84f849574a0849!2sLaboratorios%20Napoles%20Tacotalpa!5e0!3m2!1ses-419!2sus!4v1762877300043!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma",
+                "servicios": "Análisis clínicos, Ultrasonido, Electrocardiograma, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "18",
                 "mapa_movil": "https://maps.app.goo.gl/dNaoSUJwJHxSXx978"
             }
@@ -504,7 +504,7 @@
                 "longitud": -92.95196586401538,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3804.084238626898!2d-92.95500212440409!3d17.55117559806515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85edb0b354038aef%3A0x56c65afddf90b78c!2sLaboratorios%20Napoles%20Teapa!5e0!3m2!1ses-419!2sus!4v1762877260856!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "23",
                 "mapa_movil": "https://maps.app.goo.gl/WjLMpxxJU8VpFeZv6"
             }
@@ -521,7 +521,7 @@
                 "longitud": -91.42499710449889,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.6396121393213!2d-91.42812992440528!3d17.476955000217902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f390a04bd792af%3A0x92bf34b5e35e7734!2sLaboratorios%20Napoles%20Tenosique!5e0!3m2!1ses-419!2sus!4v1762877195368!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma",
+                "servicios": "Análisis clínicos, Electrocardiograma, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "16",
                 "mapa_movil": "https://maps.app.goo.gl/iv8CsGejDZ9JDxtR8"
             }
@@ -540,7 +540,7 @@
                 "longitud": -94.14486154511268,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.9717942169121!2d-94.14507947457963!3d18.138620093962203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e967f8316c3cb7%3A0x88a900d02889e3c7!2sLaboratorios%20Napoles%20Agua%20dulce!5e0!3m2!1ses-419!2sus!4v1762876862497!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Ultrasonido, Rayos X, Papanicolaou",
+                "servicios": "Análisis clínicos, Ultrasonido, Rayos X, Electrocardiograma, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "49",
                 "mapa_movil": "https://maps.app.goo.gl/gMJQgzNZzecBby4U7"
             }
@@ -557,7 +557,7 @@
                 "longitud": -94.08923709838596,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3796.5322144984734!2d-94.09203732439816!3d17.907313987618362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ebdd2a9a32e6c9%3A0xd4166084be3301b3!2sLaboratorios%20Napoles%20Las%20Choapas!5e0!3m2!1ses-419!2sus!4v1762877003659!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Rayos X",
+                "servicios": "Análisis clínicos, Ultrasonido, Rayos X, Electrocardiograma, Papanicolaou, Prueba de Holter, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "20",
                 "mapa_movil": "https://maps.app.goo.gl/pVGdtFFyHQKGX2536"
             },
@@ -572,7 +572,7 @@
                 "longitud": -94.10410007191832,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3796.840947837025!2d-94.10940011655445!3d17.892889244444913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ebdd6ec323cf4f%3A0x4e3602dd628e2f59!2sLaboratorios%20Napoles%20Las%20Choapas%20toma!5e0!3m2!1ses-419!2sus!4v1762876919837!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "126",
                 "mapa_movil": "https://maps.app.goo.gl/ACciJKePirBWx8PH6"
             }
@@ -591,7 +591,7 @@
                 "longitud": -92.33386082723321,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3811.9093366566185!2d-92.33665032441012!3d17.17462090889888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f285d0f9a7039d%3A0xa565d9d132011c7d!2sLaboratorios%20Napoles%20Yajal%C3%B3n!5e0!3m2!1ses-419!2sus!4v1762876769298!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "30",
                 "mapa_movil": "https://maps.app.goo.gl/Z8LLE55xtoYZJ9Yz6"
             }
@@ -608,7 +608,7 @@
                 "longitud": -93.14942007064566,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d237.3418082255142!2d-93.14940531849713!3d17.86351360933709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ec2dbc7fe83e97%3A0xdc7eb17440d7025b!2sLaboratorios%20Napoles%20Reforma!5e0!3m2!1ses-419!2sus!4v1762876716250!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma",
+                "servicios": "Análisis clínicos, Electrocardiograma, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "6",
                 "mapa_movil": "https://maps.app.goo.gl/exq36A69Gi9gM2hHA"
             }
@@ -625,7 +625,7 @@
                 "longitud": -92.81805813482045,
                 "url_iframe_mapa": "https://www.google.com/maps?q=17.37319639567139,-92.81805813482045&z=18&output=embed",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos",
+                "servicios": "Análisis clínicos, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "19",
                 "mapa_movil": "https://maps.app.goo.gl/96bvCXXn6Fa6tsmB8"
             }
@@ -642,7 +642,7 @@
                 "longitud": -92.33284239710352,
                 "url_iframe_mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3803.9525713110456!2d-92.33828191659849!3d17.5574446549944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85f271f8a603fc0d%3A0xee29d6c0ae37a81!2sLaboratorios%20Napoles%20Salto%20de%20Agua!5e0!3m2!1ses-419!2sus!4v1762876317025!5m2!1ses-419!2sus",
                 "img": "https://cdn.jsdelivr.net/gh/napoles-desarrollo/sucursales/logo-vertical.png",
-                "servicios": "Análisis clínicos, Electrocardiograma, Rayos X",
+                "servicios": "Análisis clínicos, Rayos X, Electrocardiograma, Papanicolaou, DIU (colocación y retiro), Implante subdérmico (colocación y retiro), Ozonoterapia",
                 "lista_precio": "85",
                 "mapa_movil": "https://maps.app.goo.gl/z82ELU3ZpsYoTyhh8"
             }
